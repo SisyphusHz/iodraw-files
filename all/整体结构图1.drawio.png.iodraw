@@ -4,93 +4,93 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2YkZxhuETu6n6hGFPF2Q-1" value="用户层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="2YkZxhuETu6n6hGFPF2Q-1" value="用户层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="111.5" y="100" width="605" height="90" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2YkZxhuETu6n6hGFPF2Q-2" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
+        <mxCell id="2YkZxhuETu6n6hGFPF2Q-2" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
           <mxGeometry x="68.5" y="25" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-6" value="各类型数据导出" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-6" value="各类型数据导出" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
           <mxGeometry x="368.5" y="25" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-7" value="技术层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-7" value="技术层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="111" y="230" width="605" height="110" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;&lt;div&gt;C++&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;&lt;div&gt;C++&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
           <mxGeometry x="109" y="17.5" width="95" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-15" value="MongoDB&lt;div&gt;Rust&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-15" value="MongoDB&lt;div&gt;Rust&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
           <mxGeometry x="269" y="17.5" width="95" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-17" value="&lt;div&gt;DevEco Studio&amp;nbsp;&lt;/div&gt;&lt;div&gt;MindSpore&lt;/div&gt;&lt;div&gt;Harmony OS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-17" value="&lt;div&gt;DevEco Studio&amp;nbsp;&lt;/div&gt;&lt;div&gt;MindSpore&lt;/div&gt;&lt;div&gt;Harmony OS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="II7KoQKcKcPgW8y9dFyG-7" vertex="1">
           <mxGeometry x="429" y="17.5" width="95" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-20" value="功能层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-20" value="功能层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="111.5" y="380" width="605" height="370" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="数据建模模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="数据建模模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="58.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-5" value="地表建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-5" value="地表建模" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10.75" y="42.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-8" value="钻孔建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-8" value="钻孔建模" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="100.75" y="42.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-9" value="样品建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-9" value="样品建模" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10.75" y="102.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-10" value="地层建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-10" value="地层建模" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="100.75" y="102.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-11" value="矿体&lt;div&gt;面&lt;span style=&quot;background-color: initial;&quot;&gt;建模&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-11" value="矿体&lt;div&gt;面&lt;span style=&quot;background-color: initial;&quot;&gt;建模&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10.75" y="162.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-12" value="矿体&lt;div&gt;体建模&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-12" value="矿体&lt;div&gt;体建模&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="100.75" y="162.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-13" value="三维&lt;div&gt;开挖分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-13" value="三维&lt;div&gt;开挖分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="56.5" y="230" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="238.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="IDW&lt;div&gt;品位估值&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="IDW&lt;div&gt;品位估值&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
           <mxGeometry x="43.629999999999995" y="72.5" width="84.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-17" value="储量&lt;div&gt;报表输出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-17" value="储量&lt;div&gt;报表输出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
           <mxGeometry x="43.629999999999995" y="167.5" width="84.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="数据应用模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="数据应用模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="418.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-18" value="矿山&lt;div&gt;大数据管理平台&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-18" value="矿山&lt;div&gt;大数据管理平台&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57" y="52.5" width="96.38" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-21" value="常见矿体&lt;div&gt;图像识别系统&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-21" value="常见矿体&lt;div&gt;图像识别系统&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57000000000005" y="125" width="96.38" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-22" value="野外&lt;div&gt;数据采集APP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-22" value="野外&lt;div&gt;数据采集APP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57000000000005" y="202.5" width="96.38" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-24" value="数据层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-24" value="数据层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="111.5" y="810" width="605" height="110" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-25" value="MongoDB&lt;div&gt;大数据平台&lt;/div&gt;&lt;div&gt;数据管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-24">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-25" value="MongoDB&lt;div&gt;大数据平台&lt;/div&gt;&lt;div&gt;数据管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-24">
           <mxGeometry x="135.5" y="17.5" width="361" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-31" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;数&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;字&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;矿&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;山&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;系&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;统&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;整&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;体&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;架&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;构&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;图&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-31" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;数&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;字&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;矿&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;山&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;系&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;统&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;整&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;体&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;架&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;构&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;图&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="60" height="820" as="geometry" />
         </mxCell>
       </root>
