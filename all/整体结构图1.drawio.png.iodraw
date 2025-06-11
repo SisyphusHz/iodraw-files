@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="数据建模模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
-          <mxGeometry x="58.5" y="55" width="171.5" height="200" as="geometry" />
+          <mxGeometry x="58.5" y="55" width="171.5" height="235" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-5" value="地表建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10" y="35" width="60" height="45" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-9" value="样品建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10" y="95" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-10" value="地层建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+          <mxGeometry x="100" y="95" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="238.5" y="55" width="171.5" height="200" as="geometry" />
