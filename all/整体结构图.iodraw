@@ -23,17 +23,17 @@
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="69" y="20" width="95" height="40" as="geometry" />
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="Quanty" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
+          <mxGeometry x="79" y="20" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-10" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="193" y="20" width="95" height="40" as="geometry" />
+          <mxGeometry x="203" y="20" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-11" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="323" y="20" width="95" height="40" as="geometry" />
+          <mxGeometry x="333" y="20" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-14" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="453" y="20" width="95" height="40" as="geometry" />
+          <mxGeometry x="463" y="20" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
