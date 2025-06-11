@@ -10,10 +10,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2YkZxhuETu6n6hGFPF2Q-2" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
-          <mxGeometry x="78.5" y="25" width="195" height="40" as="geometry" />
+          <mxGeometry x="98.5" y="25" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-6" value="各类型数据导出" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="2YkZxhuETu6n6hGFPF2Q-1" vertex="1">
-          <mxGeometry x="338.5" y="25" width="195" height="40" as="geometry" />
+          <mxGeometry x="318.5" y="25" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
