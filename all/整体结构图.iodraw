@@ -26,6 +26,12 @@
         <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
           <mxGeometry x="65" y="20" width="95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-11" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
+          <mxGeometry x="319" y="20" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="II7KoQKcKcPgW8y9dFyG-10" value="等高线gvp文件、钻孔数据表导入" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
+          <mxGeometry x="199" y="20" width="95" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
