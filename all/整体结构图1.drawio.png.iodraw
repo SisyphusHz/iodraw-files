@@ -55,6 +55,9 @@
         <mxCell id="R9uHGlu8dgwa8-otcoO4-11" value="矿体面&lt;div&gt;建模&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
           <mxGeometry x="10" y="155" width="60" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-12" value="矿体&lt;div&gt;体建模&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-1">
+          <mxGeometry x="100" y="155" width="60" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="238.5" y="55" width="171.5" height="235" as="geometry" />
         </mxCell>
