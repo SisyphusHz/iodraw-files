@@ -7,6 +7,9 @@
         <mxCell id="wvH5n0_BrCq8zrjGIJNn-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;矿体识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tYhzgZuCOZpt8wr_hBel-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wvH5n0_BrCq8zrjGIJNn-9" target="wvH5n0_BrCq8zrjGIJNn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wvH5n0_BrCq8zrjGIJNn-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;野外数据采集APP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="380" width="160" height="80" as="geometry" />
         </mxCell>
