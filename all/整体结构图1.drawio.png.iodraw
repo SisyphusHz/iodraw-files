@@ -64,16 +64,16 @@
         <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="238.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="IDW&lt;div&gt;品位估值&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;IDW&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;品位估值&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
           <mxGeometry x="43.629999999999995" y="72.5" width="84.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-17" value="储量&lt;div&gt;报表输出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;储量&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;报表输出&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
           <mxGeometry x="43.629999999999995" y="167.5" width="84.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="数据应用模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="418.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-18" value="矿山&lt;div&gt;大数据管理平台&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-18" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;矿山&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;大数据管理平台&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57" y="52.5" width="96.38" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-21" value="常见矿体&lt;div&gt;图像识别系统&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
