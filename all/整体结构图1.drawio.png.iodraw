@@ -37,17 +37,8 @@
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-21" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;&lt;div&gt;C++&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="II7KoQKcKcPgW8y9dFyG-20" vertex="1">
-          <mxGeometry x="79" y="27.5" width="95" height="255" as="geometry" />
-        </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-22" value="MongoDB&lt;div&gt;Rust&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="II7KoQKcKcPgW8y9dFyG-20" vertex="1">
-          <mxGeometry x="254.5" y="27.5" width="95" height="255" as="geometry" />
-        </mxCell>
-        <mxCell id="II7KoQKcKcPgW8y9dFyG-23" value="&lt;div&gt;DevEco Studio&amp;nbsp;&lt;/div&gt;&lt;div&gt;MindSpore&lt;/div&gt;&lt;div&gt;Harmony OS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="II7KoQKcKcPgW8y9dFyG-20" vertex="1">
-          <mxGeometry x="429" y="27.5" width="95" height="255" as="geometry" />
-        </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="138" y="730" width="200" height="200" as="geometry" />
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
+          <mxGeometry x="54.5" y="55" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
