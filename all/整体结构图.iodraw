@@ -24,13 +24,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-8" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;&lt;div&gt;C++&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="79" y="15" width="95" height="50" as="geometry" />
+          <mxGeometry x="79" y="15" width="95" height="75" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-15" value="MongoDB&lt;div&gt;Rust&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="208" y="15" width="95" height="50" as="geometry" />
+          <mxGeometry x="208" y="15" width="95" height="75" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-17" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
-          <mxGeometry x="339" y="15" width="95" height="50" as="geometry" />
+          <mxGeometry x="339" y="15" width="95" height="75" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-18" value="QuantyView3d&lt;div&gt;Microsoft Visual Studio 2010&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-7">
           <mxGeometry x="469" y="15" width="95" height="50" as="geometry" />
