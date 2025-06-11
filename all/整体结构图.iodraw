@@ -33,7 +33,7 @@
           <mxGeometry x="429" y="15" width="95" height="75" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-20" value="功能层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="111.5" y="380" width="605" height="110" as="geometry">
+          <mxGeometry x="111.5" y="380" width="605" height="310" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
