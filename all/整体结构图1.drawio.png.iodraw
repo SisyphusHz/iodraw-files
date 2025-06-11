@@ -82,7 +82,7 @@
         <mxCell id="R9uHGlu8dgwa8-otcoO4-22" value="野外&lt;div&gt;数据采集APP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57000000000005" y="202.5" width="96.38" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-24" value="数据层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-24" value="数据层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=16;verticalAlign=middle;fontStyle=1;align=center;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="111.5" y="810" width="605" height="110" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
