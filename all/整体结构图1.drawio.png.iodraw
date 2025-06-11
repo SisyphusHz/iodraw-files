@@ -64,8 +64,8 @@
         <mxCell id="R9uHGlu8dgwa8-otcoO4-2" value="数据分析模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="238.5" y="37.5" width="171.5" height="292.5" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="地表建模" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
-          <mxGeometry x="55.75" y="42.5" width="60" height="45" as="geometry" />
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-14" value="IDW&lt;div&gt;品位估值&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+          <mxGeometry x="55.75" y="42.5" width="84.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="数据应用模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
           <mxGeometry x="418.5" y="37.5" width="171.5" height="292.5" as="geometry" />
