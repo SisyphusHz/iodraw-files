@@ -46,6 +46,9 @@
         <mxCell id="II7KoQKcKcPgW8y9dFyG-23" value="&lt;div&gt;DevEco Studio&amp;nbsp;&lt;/div&gt;&lt;div&gt;MindSpore&lt;/div&gt;&lt;div&gt;Harmony OS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="II7KoQKcKcPgW8y9dFyG-20" vertex="1">
           <mxGeometry x="429" y="27.5" width="95" height="255" as="geometry" />
         </mxCell>
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="730" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
