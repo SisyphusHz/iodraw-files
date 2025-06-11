@@ -19,7 +19,7 @@
           <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="II7KoQKcKcPgW8y9dFyG-7" value="技术层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="230" width="605" height="110" as="geometry">
+          <mxGeometry x="111" y="230" width="619" height="130" as="geometry">
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry x="238.5" y="55" width="171.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="数据应用模块" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="II7KoQKcKcPgW8y9dFyG-20">
-          <mxGeometry x="418.5" y="55" width="145.5" height="200" as="geometry" />
+          <mxGeometry x="418.5" y="55" width="171.5" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
