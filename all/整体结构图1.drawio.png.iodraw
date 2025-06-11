@@ -79,7 +79,7 @@
         <mxCell id="R9uHGlu8dgwa8-otcoO4-21" value="常见矿体&lt;div&gt;图像识别系统&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57000000000005" y="125" width="96.38" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-22" value="野外&lt;div&gt;数据采集APP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-22" value="野外&lt;div&gt;数据采集APP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-3">
           <mxGeometry x="37.57000000000005" y="202.5" width="96.38" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-24" value="数据层" style="swimlane;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=1;containerType=tree;fontSize=12;verticalAlign=middle;fontStyle=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -87,7 +87,7 @@
             <mxRectangle x="111.5" y="100" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9uHGlu8dgwa8-otcoO4-25" value="MongoDB&lt;div&gt;大数据平台&lt;/div&gt;&lt;div&gt;数据管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-24">
+        <mxCell id="R9uHGlu8dgwa8-otcoO4-25" value="MongoDB&lt;div&gt;大数据平台&lt;/div&gt;&lt;div&gt;数据管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-24">
           <mxGeometry x="135.5" y="17.5" width="361" height="75" as="geometry" />
         </mxCell>
       </root>
