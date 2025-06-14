@@ -241,7 +241,7 @@
           <mxGeometry x="566" y="865" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-21" value="样品终止深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="272" y="1074" width="80" height="50" as="geometry" />
+          <mxGeometry x="232" y="1074" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-22" value="样品长度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="1074" width="80" height="50" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry x="836" y="842" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-27" value="方位角采用值" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="741" y="888" width="80" height="50" as="geometry" />
+          <mxGeometry x="696" y="888" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-28" value="测点深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="867" y="695" width="80" height="50" as="geometry" />
