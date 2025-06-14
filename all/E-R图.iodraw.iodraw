@@ -261,10 +261,10 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-27" value="方位角采用值" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="741" y="888" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-28" value="测点深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-28" value="测点深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="867" y="695" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-29" value="测点号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-29" value="测点号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="787" y="645" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-33" value="岩矿心长度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -336,13 +336,13 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-58" value="数据入库日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="177" y="588" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-59" value="审核人" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-59" value="审核人" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="617" y="584" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-60" value="编录人员" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="243" y="638" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-61" value="审核日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-61" value="审核日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="642" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-79" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.819;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iCa2sJdP8KoRfn4L1Lkg-1" target="iCa2sJdP8KoRfn4L1Lkg-49" edge="1">
