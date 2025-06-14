@@ -71,10 +71,10 @@
           <mxGeometry x="432" y="401" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-12" value="矿山大数据管理平台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="784" y="401" width="49" height="235" as="geometry" />
+          <mxGeometry x="754" y="401" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-13" value="矿体图像识别系统" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="881" y="401" width="49" height="235" as="geometry" />
+          <mxGeometry x="865.5" y="401" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-14" value="野&lt;div&gt;外&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;集APP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="978" y="401" width="49" height="235" as="geometry" />
