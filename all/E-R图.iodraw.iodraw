@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-1" value="钻孔" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-1" value="钻孔" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-111" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;jumpStyle=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iCa2sJdP8KoRfn4L1Lkg-2" target="iCa2sJdP8KoRfn4L1Lkg-42" edge="1">
@@ -65,7 +65,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-2" value="勘探线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-2" value="勘探线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-116" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iCa2sJdP8KoRfn4L1Lkg-4" target="iCa2sJdP8KoRfn4L1Lkg-1" edge="1">
