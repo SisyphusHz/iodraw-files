@@ -13,7 +13,14 @@
         <mxCell id="Nbd-6DeIAO_82peWWCe5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nbd-6DeIAO_82peWWCe5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="190" />
+              <mxPoint x="415" y="190" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nbd-6DeIAO_82peWWCe5-1" target="R-gkn0i3CeQ4QlsjwKb0-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nbd-6DeIAO_82peWWCe5-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;贺子康（项目经理）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="316" y="110" width="196" height="60" as="geometry" />
