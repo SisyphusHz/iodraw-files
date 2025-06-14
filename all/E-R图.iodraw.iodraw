@@ -228,7 +228,7 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-16" value="岩层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="38" y="746" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-17" value="样品类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-17" value="样品类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="192" y="938" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-18" value="样品编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -240,13 +240,13 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-20" value="锌品位" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="566" y="865" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-21" value="样品终止深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-21" value="样品终止深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="272" y="1074" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-22" value="样品长度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="1074" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-23" value="样品起始深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-23" value="样品起始深度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="216" y="1009" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-24" value="硫品位" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -267,7 +267,7 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-29" value="测点号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="787" y="645" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-33" value="岩矿心长度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-33" value="岩矿心长度" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="391" y="1090" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-34" value="岩层序号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
