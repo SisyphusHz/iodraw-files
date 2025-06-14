@@ -10,6 +10,12 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;p&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;鄂州地砖技术有限公司&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="291" y="10" width="246" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nbd-6DeIAO_82peWWCe5-1" target="R-gkn0i3CeQ4QlsjwKb0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nbd-6DeIAO_82peWWCe5-1" target="R-gkn0i3CeQ4QlsjwKb0-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nbd-6DeIAO_82peWWCe5-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;贺子康（项目经理）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="316" y="120" width="196" height="60" as="geometry" />
         </mxCell>
@@ -21,6 +27,9 @@
         </mxCell>
         <mxCell id="R-gkn0i3CeQ4QlsjwKb0-2" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;许文斌组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="240" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nbd-6DeIAO_82peWWCe5-1" target="R-gkn0i3CeQ4QlsjwKb0-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
