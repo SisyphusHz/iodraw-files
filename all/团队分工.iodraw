@@ -13,14 +13,14 @@
         <mxCell id="Nbd-6DeIAO_82peWWCe5-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;贺子康（项目经理）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="316" y="110" width="196" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-0" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;崔立辉组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R-gkn0i3CeQ4QlsjwKb0-0" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;崔立辉组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="240" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-gkn0i3CeQ4QlsjwKb0-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;陈艺铭组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="316" y="240" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-gkn0i3CeQ4QlsjwKb0-2" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;许文斌组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="220" width="196" height="60" as="geometry" />
+          <mxGeometry x="570" y="240" width="196" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
