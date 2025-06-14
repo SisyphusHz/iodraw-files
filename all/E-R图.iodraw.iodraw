@@ -324,13 +324,13 @@
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-53" value="Y坐标" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="154" y="464" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-54" value="X坐标" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-54" value="X坐标" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="169" y="400" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-55" value="钻孔类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-55" value="钻孔类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="205" y="339" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-56" value="钻孔编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iCa2sJdP8KoRfn4L1Lkg-56" value="钻孔编号" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="283" y="306" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCa2sJdP8KoRfn4L1Lkg-58" value="数据入库日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
