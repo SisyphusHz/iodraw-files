@@ -59,7 +59,7 @@
           <mxGeometry x="-194.5" y="398" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-8" value="矿体面建模" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="398" width="49" height="235" as="geometry" />
+          <mxGeometry x="-84.5" y="398" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-9" value="I&lt;span style=&quot;background-color: initial;&quot;&gt;D&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;W&lt;/span&gt;&lt;div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;位&lt;/div&gt;&lt;div&gt;估&lt;/div&gt;&lt;div&gt;值&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="239" y="401" width="49" height="235" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="r23R5RJvFQwXLwz3UMVT-10" value="储量结果报表输出" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="326" y="401" width="49" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="r23R5RJvFQwXLwz3UMVT-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;钻孔样品数据聚类分析&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="r23R5RJvFQwXLwz3UMVT-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;钻孔样品数据聚类分析&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;align=center;" parent="1" vertex="1">
           <mxGeometry x="432" y="401" width="49" height="235" as="geometry" />
         </mxCell>
         <mxCell id="r23R5RJvFQwXLwz3UMVT-12" value="矿山大数据管理平台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontFamily=Helvetica;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" parent="1" vertex="1">
