@@ -41,7 +41,7 @@
             <mxPoint x="-61" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71Ib7_H-qlYojz6-lZwE-13" value="矿山大数据管理平台" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=17;labelBackgroundColor=none;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="71Ib7_H-qlYojz6-lZwE-13" value="矿山大数据管理平台" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fontSize=17;labelBackgroundColor=none;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1420" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="71Ib7_H-qlYojz6-lZwE-20" target="71Ib7_H-qlYojz6-lZwE-24" edge="1">
