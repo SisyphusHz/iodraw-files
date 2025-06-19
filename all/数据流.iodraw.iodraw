@@ -55,7 +55,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-85" value="地表建模结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-84" vertex="1" connectable="0">
           <mxGeometry x="0.1135" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-24" value="三维地表建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -161,7 +161,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-86" value="开挖分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-73" vertex="1" connectable="0">
           <mxGeometry x="-0.1592" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-68" value="三维开挖分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
