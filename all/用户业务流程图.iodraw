@@ -71,6 +71,9 @@
         <mxCell id="ialFg8_850sntpHKHk0L-8" value="数据可视化建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="920" y="600" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ialFg8_850sntpHKHk0L-9" value="数据可视化建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="920" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
