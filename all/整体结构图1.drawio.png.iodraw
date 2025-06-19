@@ -68,9 +68,9 @@
           <mxGeometry x="43.629999999999995" y="52.5" width="84.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;储量&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;报表输出&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="R9uHGlu8dgwa8-otcoO4-2" vertex="1">
-          <mxGeometry x="43.629999999999995" y="142.5" width="84.25" height="45" as="geometry" />
+          <mxGeometry x="43.62" y="142.5" width="84.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="GVNU_dbucyt0gVr0QQBC-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;聚类分析&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;判别分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="R9uHGlu8dgwa8-otcoO4-2">
+        <mxCell id="GVNU_dbucyt0gVr0QQBC-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;聚类分析&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;判别分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="R9uHGlu8dgwa8-otcoO4-2" vertex="1">
           <mxGeometry x="43.629999999999995" y="222.5" width="84.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R9uHGlu8dgwa8-otcoO4-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据应用模块&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" parent="II7KoQKcKcPgW8y9dFyG-20" vertex="1">
