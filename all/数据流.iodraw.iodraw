@@ -84,7 +84,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-95" value="钻孔样品数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-94" vertex="1" connectable="0">
           <mxGeometry x="-0.2327" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="28" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-29" value="钻孔三维建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -181,7 +181,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-110" value="估值计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-97" vertex="1" connectable="0">
           <mxGeometry x="-0.0343" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-91" value="IDW品位估值" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -214,7 +214,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-126" value="用户输入数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-125" vertex="1" connectable="0">
           <mxGeometry x="0.0313" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="50" y="61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-96" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 17px;&quot;&gt;含有品位数据的块体模型&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
