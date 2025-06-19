@@ -305,6 +305,9 @@
         <mxCell id="71Ib7_H-qlYojz6-lZwE-145" value="矿体图像照片" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=17;labelBackgroundColor=none;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1860" y="665" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QeHtfbQKh_95q3UW5AO9-1" value="钻孔三维建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
