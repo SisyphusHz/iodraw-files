@@ -225,7 +225,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-100" value="用户输入数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-99" vertex="1" connectable="0">
           <mxGeometry x="-0.4644" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="71Ib7_H-qlYojz6-lZwE-98" target="71Ib7_H-qlYojz6-lZwE-124" edge="1">
@@ -233,7 +233,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-139" value="野外采集数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-138" vertex="1" connectable="0">
           <mxGeometry x="0.0229" y="-4" relative="1" as="geometry">
-            <mxPoint x="-46" y="2" as="offset" />
+            <mxPoint x="-56" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-98" value="用户接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
