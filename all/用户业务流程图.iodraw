@@ -50,65 +50,20 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-33" value="二维空间分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="600" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845.25" y="1270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845.25" y="1270" as="sourcePoint" />
-            <mxPoint x="845.25" y="1404" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845.25" y="1270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-39" target="mocGt8EhDZcxD4Bm52Zj-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-39" value="经验驱动决策" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="720" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-51" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-51" value="三维地表建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="574.75" y="1404" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="845.25" y="1454" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-55" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-55" value="IDW品位估值" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="955.75" y="1404" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1303.5" y="1454" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1485.5" y="1454" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-66" target="mocGt8EhDZcxD4Bm52Zj-68" edge="1">
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1170" y="1710" />
               <mxPoint x="777" y="1710" />
             </Array>
+            <mxPoint x="1170" y="1670" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-66" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;智能决策&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="1620" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ialFg8_850sntpHKHk0L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="mocGt8EhDZcxD4Bm52Zj-67" target="mocGt8EhDZcxD4Bm52Zj-2">
           <mxGeometry relative="1" as="geometry" />
