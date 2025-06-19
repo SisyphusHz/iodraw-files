@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-11" value="野外数据采集APP" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="530" width="160" height="50" as="geometry" />
+          <mxGeometry x="920" y="450" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-15" target="mocGt8EhDZcxD4Bm52Zj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-22" value="矿山大数据平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1063.5" y="680" width="160" height="50" as="geometry" />
+          <mxGeometry x="920" y="690" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-24" target="mocGt8EhDZcxD4Bm52Zj-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
