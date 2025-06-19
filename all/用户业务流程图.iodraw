@@ -53,23 +53,6 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-17" value="分散存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="450" y="939" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1144" y="820" />
-              <mxPoint x="1054" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-22" value="矿山大数据平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="920" y="690" width="160" height="50" as="geometry" />
         </mxCell>
@@ -78,9 +61,6 @@
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-24" value="数据检索困难" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="450" y="1081" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-26" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-26" value="统一数据管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1386" y="912" width="160" height="50" as="geometry" />
@@ -136,23 +116,15 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-43" value="智能分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1406.75" y="1220" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-45" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="848" y="962" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-45" value="钻孔数据导入" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="768" y="912" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-47" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-47" value="报表数据导入" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="974" y="912" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-49" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-49" value="图像识别数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="912" width="160" height="50" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1054" y="962" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-51" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
