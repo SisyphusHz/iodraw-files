@@ -87,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71Ib7_H-qlYojz6-lZwE-29" value="钻孔三维建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="71Ib7_H-qlYojz6-lZwE-29" value="钻孔三维建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1420" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" parent="1" source="71Ib7_H-qlYojz6-lZwE-34" target="71Ib7_H-qlYojz6-lZwE-74" edge="1">
