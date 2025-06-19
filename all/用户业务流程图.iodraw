@@ -56,9 +56,6 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-31" value="分析方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1096" y="1102" width="118" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-33" target="mocGt8EhDZcxD4Bm52Zj-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-33" value="二维空间分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="600" width="160" height="50" as="geometry" />
         </mxCell>
@@ -78,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-39" value="经验驱动决策" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1505" width="160" height="50" as="geometry" />
+          <mxGeometry x="471" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" target="mocGt8EhDZcxD4Bm52Zj-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
