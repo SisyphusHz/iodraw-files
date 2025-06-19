@@ -263,7 +263,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-148" value="矿体识别信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-147" vertex="1" connectable="0">
           <mxGeometry x="0.0032" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-123" value="矿体图像识别系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -274,7 +274,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-144" value="文字信息&lt;br style=&quot;font-size: 17px;&quot;&gt;影像信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-143" vertex="1" connectable="0">
           <mxGeometry x="0.0117" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="34" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-124" value="野外数据采集APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
