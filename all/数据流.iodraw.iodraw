@@ -58,7 +58,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71Ib7_H-qlYojz6-lZwE-24" value="三维地表建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="71Ib7_H-qlYojz6-lZwE-24" value="三维地表建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1860" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" parent="1" source="71Ib7_H-qlYojz6-lZwE-29" edge="1">
