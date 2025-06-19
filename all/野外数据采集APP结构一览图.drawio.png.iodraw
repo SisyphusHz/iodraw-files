@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wvH5n0_BrCq8zrjGIJNn-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;野外数据采集APP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="380" width="90" height="80" as="geometry" />
+          <mxGeometry x="130" y="310" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tYhzgZuCOZpt8wr_hBel-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tYhzgZuCOZpt8wr_hBel-0" target="tYhzgZuCOZpt8wr_hBel-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
