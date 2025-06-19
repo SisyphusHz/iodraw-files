@@ -308,7 +308,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QeHtfbQKh_95q3UW5AO9-4" value="野外数据" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=17;labelBackgroundColor=none;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="980" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
