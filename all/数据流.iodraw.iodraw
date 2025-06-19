@@ -128,7 +128,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-63" value="建模结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-62" vertex="1" connectable="0">
           <mxGeometry x="-0.1212" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="71Ib7_H-qlYojz6-lZwE-53" target="71Ib7_H-qlYojz6-lZwE-68" edge="1">
@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-70" value="矿体体模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-69" vertex="1" connectable="0">
           <mxGeometry x="0.0132" y="1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="-49" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="71Ib7_H-qlYojz6-lZwE-53" target="71Ib7_H-qlYojz6-lZwE-91" edge="1">
@@ -144,7 +144,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-93" value="块体数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-92" vertex="1" connectable="0">
           <mxGeometry x="-0.02" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="62" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-53" value="三维矿体体建模" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -192,7 +192,7 @@
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-128" value="品位数据&lt;br style=&quot;font-size: 17px;&quot;&gt;块体数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#143642;" parent="71Ib7_H-qlYojz6-lZwE-127" vertex="1" connectable="0">
           <mxGeometry x="-0.026" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="39" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71Ib7_H-qlYojz6-lZwE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="71Ib7_H-qlYojz6-lZwE-96" target="71Ib7_H-qlYojz6-lZwE-74" edge="1">
