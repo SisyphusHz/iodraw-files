@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-1" value="地质数据准备" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="697" y="210" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-2" value="现场勘察采集" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="72" y="198" width="160" height="50" as="geometry" />
+          <mxGeometry x="697" y="260" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;strokeWidth=1.5;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-9" edge="1">
           <mxGeometry relative="1" as="geometry">
