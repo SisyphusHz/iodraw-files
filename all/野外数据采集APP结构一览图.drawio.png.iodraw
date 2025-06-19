@@ -67,8 +67,8 @@
         <mxCell id="tYhzgZuCOZpt8wr_hBel-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户隐私安全&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="584" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tYhzgZuCOZpt8wr_hBel-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据上云（华为云空间）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="827" y="380" width="243" height="80" as="geometry" />
+        <mxCell id="tYhzgZuCOZpt8wr_hBel-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据上云&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="827" y="320" width="93" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
