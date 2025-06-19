@@ -27,8 +27,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-9" target="mocGt8EhDZcxD4Bm52Zj-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="656" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-9" value="纸质化记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="450" y="515" width="160" height="50" as="geometry" />
@@ -38,12 +40,6 @@
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-11" value="野外数据采集APP" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1063.5" y="550" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-13" target="mocGt8EhDZcxD4Bm52Zj-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-13" value="数据转录" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="450" y="656" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;strokeWidth=1.5;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-15" target="mocGt8EhDZcxD4Bm52Zj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +57,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1144" y="820" />
+              <mxPoint x="1054" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-22" target="mocGt8EhDZcxD4Bm52Zj-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
