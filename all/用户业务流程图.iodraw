@@ -41,6 +41,9 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-11" value="野外数据采集APP" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="920" y="380" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ialFg8_850sntpHKHk0L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mocGt8EhDZcxD4Bm52Zj-15" target="mocGt8EhDZcxD4Bm52Zj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-15" value="图纸绘制" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="490" width="160" height="50" as="geometry" />
         </mxCell>
