@@ -47,15 +47,6 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-22" value="矿山大数据平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="920" y="490" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-31" target="mocGt8EhDZcxD4Bm52Zj-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-31" target="mocGt8EhDZcxD4Bm52Zj-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-31" value="分析方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1096" y="1102" width="118" height="118" as="geometry" />
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-33" value="二维空间分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="600" width="160" height="50" as="geometry" />
         </mxCell>
@@ -77,14 +68,20 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-39" value="经验驱动决策" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="471" y="720" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" target="mocGt8EhDZcxD4Bm52Zj-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485.5" y="1404" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" target="mocGt8EhDZcxD4Bm52Zj-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1303.5" y="1404" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" target="mocGt8EhDZcxD4Bm52Zj-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1666.5" y="1404" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-43" value="智能分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1406.75" y="1220" width="160" height="50" as="geometry" />
@@ -107,23 +104,20 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-55" value="IDW品位估值" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="955.75" y="1404" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-57" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1303.5" y="1454" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-57" value="储量计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1223.5" y="1404" width="160" height="50" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485.5" y="1454" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-59" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-59" value="开挖分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1405.5" y="1404" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-61" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-61" value="聚类判别分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1586.5" y="1404" width="160" height="50" as="geometry" />
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" target="mocGt8EhDZcxD4Bm52Zj-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1666.5" y="1454" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;fontSize=22;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-66" target="mocGt8EhDZcxD4Bm52Zj-68" edge="1">
           <mxGeometry relative="1" as="geometry">
