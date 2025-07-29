@@ -12,17 +12,12 @@
             <mxPoint x="713" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ialFg8_850sntpHKHk0L-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;并行初始化&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=none;fontColor=#143642;" parent="mocGt8EhDZcxD4Bm52Zj-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.1578" y="4" relative="1" as="geometry">
-            <mxPoint x="25" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=22;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-2" target="mocGt8EhDZcxD4Bm52Zj-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="831" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;数字化方式&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=none;fontColor=#143642;" parent="mocGt8EhDZcxD4Bm52Zj-5" vertex="1" connectable="0">
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;主处理流程&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=none;fontColor=#143642;" parent="mocGt8EhDZcxD4Bm52Zj-5" vertex="1" connectable="0">
           <mxGeometry x="-0.153" y="-2" relative="1" as="geometry">
             <mxPoint x="-37" y="-17" as="offset" />
           </mxGeometry>
