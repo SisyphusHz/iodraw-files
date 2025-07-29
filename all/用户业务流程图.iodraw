@@ -135,6 +135,9 @@
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-45" value="生成最终测量结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1530" y="605" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-46" value="保存结果文件并发送" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="740" width="210" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
