@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1166" dy="3229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,43 +49,6 @@
         </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-1" value="加载模型" style="whiteSpace=wrap;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="697" y="380" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" target="5wsvwFMxPDNqn6Qe5CJ8-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2320" y="-880" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" target="5wsvwFMxPDNqn6Qe5CJ8-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2769" y="-880" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-16" target="5wsvwFMxPDNqn6Qe5CJ8-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-16" value="二维空间分析" style="whiteSpace=wrap;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="-820" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-18" target="5wsvwFMxPDNqn6Qe5CJ8-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-18" value="经验驱动决策" style="whiteSpace=wrap;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="-710" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="2466" y="-560" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-21" target="5wsvwFMxPDNqn6Qe5CJ8-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-21" value="数据可视化建模" style="whiteSpace=wrap;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="2689" y="-820" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#B45451;fontColor=default;strokeWidth=3;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-23" target="5wsvwFMxPDNqn6Qe5CJ8-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-23" value="数据智能分析" style="whiteSpace=wrap;strokeWidth=3;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#B45451;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="2689" y="-710" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#B45451;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-26" target="5wsvwFMxPDNqn6Qe5CJ8-28">
           <mxGeometry relative="1" as="geometry" />
