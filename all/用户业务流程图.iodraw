@@ -15,7 +15,7 @@
             <mxPoint x="713" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=22;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-2" target="mocGt8EhDZcxD4Bm52Zj-11" edge="1">
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=22;labelBackgroundColor=none;strokeColor=#d6b656;fontColor=default;fillColor=#fff2cc;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-2" target="mocGt8EhDZcxD4Bm52Zj-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="831" y="391" as="sourcePoint" />
           </mxGeometry>
