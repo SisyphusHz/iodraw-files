@@ -28,7 +28,7 @@
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=22;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-11" target="mocGt8EhDZcxD4Bm52Zj-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-11" value="野外数据采集APP" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="mocGt8EhDZcxD4Bm52Zj-11" value="连接服务器" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="920" y="380" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ialFg8_850sntpHKHk0L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-15" target="mocGt8EhDZcxD4Bm52Zj-33" edge="1">
@@ -76,7 +76,7 @@
         <mxCell id="ialFg8_850sntpHKHk0L-9" value="数据智能分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="920" y="710" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-1" value="纸质化记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-1" value="加载模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="697" y="380" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
