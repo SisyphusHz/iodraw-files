@@ -17,11 +17,6 @@
             <mxPoint x="831" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mocGt8EhDZcxD4Bm52Zj-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;主处理流程&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=none;fontColor=#143642;" parent="mocGt8EhDZcxD4Bm52Zj-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.153" y="-2" relative="1" as="geometry">
-            <mxPoint x="-37" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mocGt8EhDZcxD4Bm52Zj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;strokeWidth=3;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" source="mocGt8EhDZcxD4Bm52Zj-9" target="mocGt8EhDZcxD4Bm52Zj-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="656" as="targetPoint" />
@@ -80,6 +75,9 @@
         </mxCell>
         <mxCell id="ialFg8_850sntpHKHk0L-9" value="数据智能分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="920" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-1" value="纸质化记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="697" y="380" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
