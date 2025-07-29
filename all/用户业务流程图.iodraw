@@ -82,7 +82,7 @@
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-23" value="数据智能分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1699" y="230" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-26" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-26" value="主处理流程" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="697" y="500" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
