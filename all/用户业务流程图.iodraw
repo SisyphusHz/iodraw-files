@@ -93,14 +93,26 @@
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-26" value="主处理流程" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="697" y="500" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-28" target="5wsvwFMxPDNqn6Qe5CJ8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-28" value="选择最佳帧" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="697" y="620" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-30" target="5wsvwFMxPDNqn6Qe5CJ8-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-30" value="提取RGB图像和深度图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="645.5" y="740" width="263" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-31" target="5wsvwFMxPDNqn6Qe5CJ8-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-31" value="RGB图像和深度图像硬件对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1200" y="740" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wsvwFMxPDNqn6Qe5CJ8-32" target="5wsvwFMxPDNqn6Qe5CJ8-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wsvwFMxPDNqn6Qe5CJ8-32" value="RGB图像目标检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1200" y="605" width="210" height="80" as="geometry" />
