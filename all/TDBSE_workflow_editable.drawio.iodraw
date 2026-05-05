@@ -22,9 +22,6 @@
         <mxCell id="7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
           <mxGeometry x="1245" y="78" width="400" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Sentinel-2&lt;br&gt;Level-2A products&lt;br&gt;Time Series Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=18;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="135" y="105" width="280" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="9" value="Sentinel-2&lt;br&gt;&lt;br&gt;surface reflectance&lt;br&gt;&lt;br&gt;bands:2,3,4,8,&lt;br&gt;&lt;br&gt;11,and 12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="135" y="320" width="280" height="150" as="geometry" />
         </mxCell>
