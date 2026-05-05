@@ -73,7 +73,7 @@
             <mxPoint x="625" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="Improve soil masking" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
+        <mxCell id="23" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="648" y="318" width="230" height="24" as="geometry" />
         </mxCell>
         <mxCell id="24" value="NBR2 &amp;lt; 0.13" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
@@ -88,13 +88,13 @@
             <mxPoint x="625" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="27" value="Discriminate straw from soil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
+        <mxCell id="27" value="&lt;b&gt;Discriminate straw from soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="648" y="396" width="280" height="24" as="geometry" />
         </mxCell>
         <mxCell id="28" value="(mNDWI &amp;gt; EVI or &amp;gt; NDVI) and EVI &amp;lt; 0.1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="422" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="29" value="Eliminate open water bodies furtherly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
+        <mxCell id="29" value="&lt;b&gt;Eliminate open water bodies furtherly&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="645" y="473" width="350" height="24" as="geometry" />
         </mxCell>
         <mxCell id="30" value="&lt;i&gt;Median/&lt;br&gt;Value&lt;br&gt;Filter&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
