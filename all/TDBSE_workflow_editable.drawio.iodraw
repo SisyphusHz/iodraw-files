@@ -26,7 +26,7 @@
           <mxGeometry x="-170" y="-280" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Sentinel-2&lt;br&gt;&lt;br&gt;surface reflectance&lt;br&gt;&lt;br&gt;bands:2,3,4,8,&lt;br&gt;&lt;br&gt;11,and 12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="135" y="280" width="280" height="190" as="geometry" />
+          <mxGeometry x="135" y="283" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="10" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -181,8 +181,11 @@
         <mxCell id="47" value="Consis-&lt;br&gt;tency" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1543" y="430" width="106" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="VUnNBodXVs3HapBAs35a-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUnNBodXVs3HapBAs35a-47" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VUnNBodXVs3HapBAs35a-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="250" height="140" as="geometry" />
+          <mxGeometry x="150" y="90" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
