@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="tdbse-workflow" name="TDBSE workflow">
-    <mxGraphModel dx="1217" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="2800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="165" y="25" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="&lt;b&gt;TDBSE Processor&lt;br&gt;(Per tile)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="765" y="10" width="300" height="70" as="geometry" />
+          <mxGeometry x="665" y="10" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;A continuous surface&lt;br&gt;bare soil map&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1265" y="10" width="360" height="70" as="geometry" />
