@@ -146,7 +146,7 @@
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-12" value="&lt;div&gt;构建 s1_bare_score&lt;/div&gt;&lt;div&gt;雷达裸土支持分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1250" y="610.5" width="280" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="vOFkcTXx1dgOvzMBYAYc-13" value="Sentinel-2&lt;div&gt;长时序光学影像集合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-13" value="&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;&amp;nbsp;s1_bare_frequency&lt;/div&gt;&lt;div&gt;&amp;nbsp;s1_bare_score_mean&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1250" y="767.5" width="280" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-16" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
