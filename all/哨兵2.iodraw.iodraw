@@ -7,7 +7,7 @@
         <mxCell id="qBikejllrflv4hqunyuy-1" value="&lt;b&gt;Database&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="355" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-2" value="&lt;b&gt;TDBSE Processor&lt;br&gt;(Per tile)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-2" value="&lt;b&gt;&amp;nbsp;Preprocess&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="340" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-3" value="&lt;b&gt;A continuous surface&lt;br&gt;bare soil map&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
