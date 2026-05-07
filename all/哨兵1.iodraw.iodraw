@@ -143,7 +143,7 @@
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vOFkcTXx1dgOvzMBYAYc-12" target="vOFkcTXx1dgOvzMBYAYc-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vOFkcTXx1dgOvzMBYAYc-12" value="&lt;div&gt;构建 s1_bare_score&lt;/div&gt;&lt;div&gt;雷达裸土支持分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-12" value="&lt;div&gt;构建&amp;nbsp;&lt;/div&gt;&lt;div&gt;s1_bare_score&lt;/div&gt;&lt;div&gt;雷达裸土支持分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1250" y="610.5" width="280" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-13" value="&lt;div&gt;计算&lt;/div&gt;&lt;div&gt;&amp;nbsp;s1_bare_frequency&lt;/div&gt;&lt;div&gt;&amp;nbsp;s1_bare_score_mean&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-17" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1330" y="722" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-18" value="Generate radar index features" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="282" width="245" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
