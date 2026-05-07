@@ -22,7 +22,7 @@
         <mxCell id="qBikejllrflv4hqunyuy-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
           <mxGeometry x="1180" y="408" width="400" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-7" value="Sentinel-2&lt;br&gt;&lt;br&gt;surface reflectance&lt;br&gt;&lt;br&gt;bands:2,3,4,8,&lt;br&gt;&lt;br&gt;11,and 12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-7" value="按照研究区边界筛选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="70" y="613" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-8" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" edge="1" parent="1">
