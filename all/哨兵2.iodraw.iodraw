@@ -88,41 +88,11 @@
             <mxPoint x="1180" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-34" value="&lt;i&gt;Globeland30-&lt;br&gt;Croplandlayer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=15;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="578" width="150" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-35" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1380" y="578" as="sourcePoint" />
             <mxPoint x="1380" y="620" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-37" style="endArrow=none;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1390" y="668" as="sourcePoint" />
-            <mxPoint x="1390" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-39" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="710" as="sourcePoint" />
-            <mxPoint x="1260" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-40" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1390" y="710" as="sourcePoint" />
-            <mxPoint x="1390" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-41" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1530" y="710" as="sourcePoint" />
-            <mxPoint x="1530" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-44" value="Consis-&lt;br&gt;tency" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1478" y="760" width="106" height="68" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBikejllrflv4hqunyuy-46" target="qBikejllrflv4hqunyuy-7">
           <mxGeometry relative="1" as="geometry" />
