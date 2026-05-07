@@ -11,7 +11,7 @@
           <mxGeometry x="640" y="338" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-3" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="310" width="360" height="70" as="geometry" />
+          <mxGeometry x="1200" y="180" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
           <mxGeometry x="30" y="408" width="360" height="512" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="460" y="406" width="660" height="512" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-6" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="408" width="400" height="512" as="geometry" />
+          <mxGeometry x="1190" y="400" width="400" height="520" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-7" value="按照研究区边界筛选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="70" y="660.5" width="280" height="190" as="geometry" />
