@@ -114,7 +114,7 @@
           <mxGeometry x="1640" y="400" width="400" height="520" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-2" value="Limit temporal observation window" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
-          <mxGeometry x="820" y="197" width="220" height="24" as="geometry" />
+          <mxGeometry x="615" y="488" width="260" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
