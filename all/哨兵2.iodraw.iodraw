@@ -76,7 +76,7 @@
         <mxCell id="qBikejllrflv4hqunyuy-20" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
           <mxGeometry x="583" y="648" width="230" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-21" value="NBR2 &amp;lt; 0.13" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-21" value="&lt;div&gt;反射率缩放&lt;span style=&quot;background-color: initial;&quot;&gt;DN / 10000&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="674" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-22" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
