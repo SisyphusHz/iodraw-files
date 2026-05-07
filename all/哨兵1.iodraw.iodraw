@@ -138,7 +138,10 @@
           <mxGeometry x="1700" y="568" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-12" value="Sentinel-2&lt;div&gt;长时序光学影像集合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="631" width="280" height="93" as="geometry" />
+          <mxGeometry x="1250" y="610.5" width="280" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-13" value="Sentinel-2&lt;div&gt;长时序光学影像集合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="767.5" width="280" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
