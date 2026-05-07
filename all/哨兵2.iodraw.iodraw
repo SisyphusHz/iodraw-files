@@ -23,7 +23,7 @@
           <mxGeometry x="1180" y="408" width="400" height="512" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-7" value="按照研究区边界筛选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="613" width="280" height="190" as="geometry" />
+          <mxGeometry x="70" y="648" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-8" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
