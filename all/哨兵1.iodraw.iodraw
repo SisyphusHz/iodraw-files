@@ -161,6 +161,9 @@
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-19" value="Score bare-soil support per image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
           <mxGeometry x="1395" y="723" width="245" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-20" value="&lt;span style=&quot;color: rgb(214, 0, 0); font-family: &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Summarize temporal bare-soil evidence&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1000" width="310" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
