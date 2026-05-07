@@ -80,7 +80,7 @@
             <mxPoint x="600" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dPk_o5rkez3MQ3-evseP-21" value="B11、B12 双线性重采样至 10 m" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="dPk_o5rkez3MQ3-evseP-21" value="提取VV、VH向后散射波段" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="495" y="750" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-22" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
