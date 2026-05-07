@@ -119,6 +119,9 @@
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-3" value="Select S1A platform only" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
           <mxGeometry x="615" y="568" width="210" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-4" value="Keep Interferometric Wide swath" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
+          <mxGeometry x="615" y="645" width="260" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
