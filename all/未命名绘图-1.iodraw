@@ -94,6 +94,9 @@
         <mxCell id="sEShAR8Jbo4cFDnNmbJI-28" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;strokeColor=#000000;" edge="1" parent="1" source="sEShAR8Jbo4cFDnNmbJI-15" target="sEShAR8Jbo4cFDnNmbJI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
+          <mxGeometry x="95" y="78" width="360" height="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
