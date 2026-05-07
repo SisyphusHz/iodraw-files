@@ -114,7 +114,7 @@
           <mxGeometry x="1250" y="453.5" width="280" height="93" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-29" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="400" width="400" height="520" as="geometry" />
+          <mxGeometry x="1690" y="397" width="400" height="520" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-2" value="Limit temporal observation window" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
           <mxGeometry x="615" y="488" width="260" height="24" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="1395" y="566" width="215" height="24" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-19" value="Score bare-soil support per image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="482" width="245" height="24" as="geometry" />
+          <mxGeometry x="1390" y="723" width="245" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
