@@ -20,7 +20,7 @@
           <mxGeometry x="460" y="400" width="660" height="518" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-6" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="400" width="400" height="520" as="geometry" />
+          <mxGeometry x="1190" y="400" width="430" height="520" as="geometry" />
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-7" value="按照研究区边界筛选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="70" y="660.5" width="280" height="190" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="1330" y="722" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-18" value="Generate radar index features" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="282" width="245" height="24" as="geometry" />
+          <mxGeometry x="1395" y="573" width="215" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
