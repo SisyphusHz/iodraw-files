@@ -10,7 +10,7 @@
         <mxCell id="qBikejllrflv4hqunyuy-2" value="&lt;b&gt;&amp;nbsp;Preprocessing&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="340" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-3" value="&lt;b&gt;A continuous surface&lt;br&gt;bare soil map&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-3" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="340" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
@@ -67,9 +67,6 @@
             <mxPoint x="560" y="674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-20" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
-          <mxGeometry x="583" y="648" width="230" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-21" value="&lt;div&gt;反射率缩放&lt;span style=&quot;background-color: initial;&quot;&gt;DN / 10000&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="674" width="335" height="50" as="geometry" />
         </mxCell>
@@ -82,14 +79,8 @@
             <mxPoint x="560" y="752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-24" value="&lt;b&gt;Discriminate straw from soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
-          <mxGeometry x="583" y="726" width="280" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-25" value="B11、B12 双线性重采样至 10 m" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="752" width="500" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-26" value="&lt;b&gt;Eliminate open water bodies furtherly&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="803" width="350" height="24" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-27" value="&lt;i&gt;Median/&lt;br&gt;Value&lt;br&gt;Filter&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="1095" y="518" width="70" height="90" as="geometry" />
