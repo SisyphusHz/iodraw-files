@@ -31,7 +31,7 @@
             <mxPoint x="420" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-9" value="按时间范围筛选&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-9" value="按时间范围筛选&amp;nbsp; 2023-01-01 至 2025-12-31&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="440" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-10" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
