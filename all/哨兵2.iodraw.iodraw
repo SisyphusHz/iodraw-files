@@ -82,9 +82,6 @@
         <mxCell id="qBikejllrflv4hqunyuy-25" value="B11、B12 双线性重采样至 10 m" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="752" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-27" value="&lt;i&gt;Median/&lt;br&gt;Value&lt;br&gt;Filter&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="518" width="70" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-28" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="615" as="sourcePoint" />
