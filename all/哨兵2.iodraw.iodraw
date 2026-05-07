@@ -88,21 +88,6 @@
             <mxPoint x="1180" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-29" value="&lt;i&gt;Evaluation with other bare&lt;br&gt;soil extraction method&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
-          <mxGeometry x="1207" y="434" width="346" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="508" width="306" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-31" value="GEOS3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="518" width="94" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-32" value="BSI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1339" y="518" width="68" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-33" value="SCMap" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1417" y="518" width="104" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-34" value="&lt;i&gt;Globeland30-&lt;br&gt;Croplandlayer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=15;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="1250" y="578" width="150" height="42" as="geometry" />
         </mxCell>
@@ -112,19 +97,10 @@
             <mxPoint x="1380" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-36" value="Spatial validation" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="620" width="220" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-37" style="endArrow=none;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="668" as="sourcePoint" />
             <mxPoint x="1390" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-38" style="endArrow=none;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="710" as="sourcePoint" />
-            <mxPoint x="1530" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-39" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
@@ -144,12 +120,6 @@
             <mxPoint x="1530" y="710" as="sourcePoint" />
             <mxPoint x="1530" y="760" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-42" value="Soil&lt;br&gt;color" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="760" width="96" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-43" value="OA/OE&lt;br&gt;/CE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="760" width="96" height="68" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-44" value="Consis-&lt;br&gt;tency" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1478" y="760" width="106" height="68" as="geometry" />
