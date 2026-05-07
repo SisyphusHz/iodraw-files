@@ -123,7 +123,7 @@
           <mxGeometry x="615" y="645" width="260" height="24" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-5" value="Dual-polarization constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
-          <mxGeometry x="820" y="515" width="220" height="24" as="geometry" />
+          <mxGeometry x="610" y="722" width="220" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
