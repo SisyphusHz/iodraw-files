@@ -94,6 +94,180 @@
         <mxCell id="sEShAR8Jbo4cFDnNmbJI-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
           <mxGeometry x="70" y="242" width="360" height="558" as="geometry" />
         </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-76" value="&lt;b&gt;Database&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="35" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-77" value="&lt;b&gt;TDBSE Processor&lt;br&gt;(Per tile)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="20" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-78" value="&lt;b&gt;A continuous surface&lt;br&gt;bare soil map&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="20" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
+          <mxGeometry x="105" y="88" width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-80" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
+          <mxGeometry x="495" y="88" width="660" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="88" width="400" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-82" value="Sentinel-2&lt;br&gt;&lt;br&gt;surface reflectance&lt;br&gt;&lt;br&gt;bands:2,3,4,8,&lt;br&gt;&lt;br&gt;11,and 12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="145" y="293" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-83" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="295" as="sourcePoint" />
+            <mxPoint x="495" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-84" value="Free of cloud and cirrus by QA60 band" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="570" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-85" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="584" y="172" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-86" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="170" as="sourcePoint" />
+            <mxPoint x="635" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-87" value="&lt;b&gt;Find available images&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
+          <mxGeometry x="658" y="171" width="230" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-88" value="NDRGI and SAVI determined by &lt;i&gt;Parallelepiped&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="198" width="570" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-89" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="584" y="250" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-90" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="248" as="sourcePoint" />
+            <mxPoint x="635" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-91" value="&lt;b&gt;Separate vegetation, impervious surface and bare soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
+          <mxGeometry x="658" y="250" width="422" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-92" value="0 &amp;lt; B3-B2 and 0 &amp;lt; B4-B3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="276" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-93" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="584" y="328" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-94" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="326" as="sourcePoint" />
+            <mxPoint x="635" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-95" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
+          <mxGeometry x="658" y="328" width="230" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-96" value="NBR2 &amp;lt; 0.13" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="354" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-97" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="584" y="406" width="45" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-98" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="404" as="sourcePoint" />
+            <mxPoint x="635" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-99" value="&lt;b&gt;Discriminate straw from soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
+          <mxGeometry x="658" y="406" width="280" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-100" value="(mNDWI &amp;gt; EVI or &amp;gt; NDVI) and EVI &amp;lt; 0.1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="432" width="500" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-101" value="&lt;b&gt;Eliminate open water bodies furtherly&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
+          <mxGeometry x="655" y="483" width="350" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-102" value="&lt;i&gt;Median/&lt;br&gt;Value&lt;br&gt;Filter&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="198" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-103" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155" y="295" as="sourcePoint" />
+            <mxPoint x="1255" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-104" value="&lt;i&gt;Evaluation with other bare&lt;br&gt;soil extraction method&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="114" width="346" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-105" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="188" width="306" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-106" value="GEOS3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="198" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-107" value="BSI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1414" y="198" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-108" value="SCMap" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1492" y="198" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-109" value="&lt;i&gt;Globeland30-&lt;br&gt;Croplandlayer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=15;fontColor=#000000;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="258" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-110" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1455" y="258" as="sourcePoint" />
+            <mxPoint x="1455" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-111" value="Spatial validation" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="300" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-112" style="endArrow=none;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1465" y="348" as="sourcePoint" />
+            <mxPoint x="1465" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-113" style="endArrow=none;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1335" y="390" as="sourcePoint" />
+            <mxPoint x="1605" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-114" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1335" y="390" as="sourcePoint" />
+            <mxPoint x="1335" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-115" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1465" y="390" as="sourcePoint" />
+            <mxPoint x="1465" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-116" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1605" y="390" as="sourcePoint" />
+            <mxPoint x="1605" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-117" value="Soil&lt;br&gt;color" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="440" width="96" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-118" value="OA/OE&lt;br&gt;/CE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="440" width="96" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-119" value="Consis-&lt;br&gt;tency" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="440" width="106" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sEShAR8Jbo4cFDnNmbJI-121" target="sEShAR8Jbo4cFDnNmbJI-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEShAR8Jbo4cFDnNmbJI-121" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Sentinel-2&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Arial; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Level-2A products&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Arial; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Time Series Database&lt;/span&gt;&#xa;&#xa;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="250" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
