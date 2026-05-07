@@ -19,13 +19,13 @@
         <mxCell id="qBikejllrflv4hqunyuy-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
           <mxGeometry x="460" y="406" width="660" height="512" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
+        <mxCell id="qBikejllrflv4hqunyuy-6" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
           <mxGeometry x="1190" y="408" width="400" height="512" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-7" value="按照研究区边界筛选" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="70" y="660.5" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-8" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
+        <mxCell id="qBikejllrflv4hqunyuy-8" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;exitX=0.994;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="qBikejllrflv4hqunyuy-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="613" as="sourcePoint" />
             <mxPoint x="460" y="613" as="targetPoint" />
