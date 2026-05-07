@@ -156,7 +156,10 @@
           <mxGeometry x="1330" y="722" width="45" height="22" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-18" value="Generate radar index features" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="573" width="215" height="24" as="geometry" />
+          <mxGeometry x="1395" y="566" width="215" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="vOFkcTXx1dgOvzMBYAYc-19" value="Score bare-soil support per image" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="482" width="245" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
