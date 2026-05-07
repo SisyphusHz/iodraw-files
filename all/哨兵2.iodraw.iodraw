@@ -62,7 +62,7 @@
           <mxGeometry x="583" y="570" width="422" height="24" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-17" value="QA60 云与卷云掩膜" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="455" y="596" width="330" height="50" as="geometry" />
+          <mxGeometry x="455" y="596" width="335" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-18" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="509" y="648" width="45" height="22" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="qBikejllrflv4hqunyuy-24" value="&lt;b&gt;Discriminate straw from soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
           <mxGeometry x="583" y="726" width="280" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="qBikejllrflv4hqunyuy-25" value="(mNDWI &amp;gt; EVI or &amp;gt; NDVI) and EVI &amp;lt; 0.1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="qBikejllrflv4hqunyuy-25" value="B11、B12 双线性重采样至 10 m" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="455" y="752" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-26" value="&lt;b&gt;Eliminate open water bodies furtherly&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" vertex="1" parent="1">
