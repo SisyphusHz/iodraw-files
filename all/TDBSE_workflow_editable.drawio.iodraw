@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="tdbse-workflow" name="TDBSE workflow">
-    <mxGraphModel dx="1492" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="665" y="10" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;A continuous surface&lt;br&gt;bare soil map&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="10" width="360" height="70" as="geometry" />
+          <mxGeometry x="1277.5" y="10" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
-          <mxGeometry x="95" y="78" width="360" height="420" as="geometry" />
+          <mxGeometry x="95" y="78" width="360" height="442" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
-          <mxGeometry x="485" y="78" width="660" height="420" as="geometry" />
+          <mxGeometry x="485" y="78" width="660" height="442" as="geometry" />
         </mxCell>
         <mxCell id="7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
-          <mxGeometry x="1245" y="78" width="400" height="420" as="geometry" />
+          <mxGeometry x="1245" y="78" width="425" height="442" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Sentinel-2&lt;br&gt;&lt;br&gt;surface reflectance&lt;br&gt;&lt;br&gt;bands:2,3,4,8,&lt;br&gt;&lt;br&gt;11,and 12" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="135" y="283" width="280" height="190" as="geometry" />
@@ -76,7 +76,7 @@
         <mxCell id="23" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="648" y="318" width="230" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="NBR2 &amp;lt; 0.13" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="24" value="NBR2 &amp;lt; 0.15" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="344" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="25" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
