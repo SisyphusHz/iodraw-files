@@ -256,6 +256,12 @@
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-75" value="&lt;b&gt;雷达&lt;/b&gt;&lt;div&gt;&lt;b&gt;支持&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="418" y="680" width="30" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="578.8199999999999" as="sourcePoint" />
+            <mxPoint x="1370" y="578.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
