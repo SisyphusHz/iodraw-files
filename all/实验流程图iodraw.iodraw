@@ -265,7 +265,7 @@
         <mxCell id="F1LYAxicJPKFlytvU4qy-73" value="空间一致性评价&lt;br&gt;&lt;span style=&quot;font-size:15px&quot;&gt;（Consistency）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1970" y="405" width="150" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="F1LYAxicJPKFlytvU4qy-74" value="计算时间比较" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="F1LYAxicJPKFlytvU4qy-74" value="计算效率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2135" y="405" width="145" height="125" as="geometry" />
         </mxCell>
         <mxCell id="F1LYAxicJPKFlytvU4qy-75" value="注：Globeland30 cropland layer&lt;br&gt;支持空间一致性评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
