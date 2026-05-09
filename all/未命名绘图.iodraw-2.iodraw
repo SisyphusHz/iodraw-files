@@ -116,10 +116,7 @@
           <mxGeometry x="780" y="335" width="275" height="62" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-34" value="构建裸土&lt;div&gt;支持特征 /支持分数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f2f2f2;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="780" y="425" width="275" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3fFjqp0Vy-i4_i_pcHv-35" target="k3fFjqp0Vy-i4_i_pcHv-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="780" y="425" width="275" height="125" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-35" value="完成线性功率转换与&lt;br&gt;雷达特征构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#ff0000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="585" width="275" height="60" as="geometry" />
@@ -140,12 +137,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="918" y="397" as="sourcePoint" />
             <mxPoint x="918" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=none;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="918" y="517" as="sourcePoint" />
-            <mxPoint x="918" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-44" value="裸土提取方法运行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
