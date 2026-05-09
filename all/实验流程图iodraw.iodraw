@@ -220,12 +220,6 @@
         <mxCell id="F1LYAxicJPKFlytvU4qy-61" value="基于 TDBSE 融合 Sentinel-1A&lt;br&gt;构建 S1A-TDBSE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1145" y="465" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F1LYAxicJPKFlytvU4qy-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="F1LYAxicJPKFlytvU4qy-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1075" y="520" as="sourcePoint" />
-            <mxPoint x="1145" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F1LYAxicJPKFlytvU4qy-63" value="分别运行四种光学方法，&lt;br&gt;并构建融合结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#ff0000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="590" width="280" height="60" as="geometry" />
         </mxCell>
