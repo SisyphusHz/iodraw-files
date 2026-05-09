@@ -217,9 +217,6 @@
             <mxPoint x="1463" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CRdb9jwskwstBNU8tKgz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1LYAxicJPKFlytvU4qy-61" target="CRdb9jwskwstBNU8tKgz-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="F1LYAxicJPKFlytvU4qy-61" value="基于 TDBSE 融合 Sentinel-1A&lt;br&gt;构建 S1A-TDBSE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1145" y="465" width="330" height="100" as="geometry" />
         </mxCell>
@@ -293,7 +290,7 @@
           <mxGeometry x="2060" y="130.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CRdb9jwskwstBNU8tKgz-3" value="&lt;b&gt;雷达&lt;/b&gt;&lt;div&gt;&lt;b&gt;支持&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1068" y="465" width="60" height="45" as="geometry" />
+          <mxGeometry x="1080" y="465" width="30" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
