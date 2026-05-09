@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-1" value="实验流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=40;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="20" width="650" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;dashPattern=8 8;arcSize=12;fontFamily=Microsoft YaHei;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="25" y="105" width="350" height="575" as="geometry" />
         </mxCell>
