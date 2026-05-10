@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="A6jF1EZgSS3yMfvEhDHl">
-    <mxGraphModel dx="3730" dy="2408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,15 +115,6 @@
         </mxCell>
         <mxCell id="dPk_o5rkez3MQ3-evseP-29" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
           <mxGeometry x="1770" y="397" width="400" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="vOFkcTXx1dgOvzMBYAYc-2" value="Limit temporal observation window" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" parent="1" vertex="1">
-          <mxGeometry x="615" y="488" width="260" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="vOFkcTXx1dgOvzMBYAYc-3" value="Select S1A platform only" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" parent="1" vertex="1">
-          <mxGeometry x="615" y="568" width="210" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="vOFkcTXx1dgOvzMBYAYc-4" value="Keep Interferometric Wide swath" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" parent="1" vertex="1">
-          <mxGeometry x="615" y="645" width="260" height="24" as="geometry" />
         </mxCell>
         <mxCell id="vOFkcTXx1dgOvzMBYAYc-5" value="Dual-polarization constraint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei,SimHei,Arial;fontSize=14;fontStyle=1;fontColor=#D60000;" parent="1" vertex="1">
           <mxGeometry x="615" y="723" width="220" height="24" as="geometry" />
