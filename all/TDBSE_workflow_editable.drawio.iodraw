@@ -31,7 +31,7 @@
             <mxPoint x="485" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="Free of cloud and cirrus by QA60 band" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="12" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Free of cloud and cirrus by QA60 band&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="110" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="13" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="15" value="&lt;b&gt;Find available images&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="648" y="161" width="230" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="NDRGI and SAVI determined by &lt;i&gt;Parallelepiped&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="16" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;NDRGI and SAVI determined by &lt;i&gt;Parallelepiped&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="188" width="570" height="50" as="geometry" />
         </mxCell>
         <mxCell id="17" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
