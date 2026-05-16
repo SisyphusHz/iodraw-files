@@ -95,7 +95,7 @@
           <mxGeometry x="520" y="422" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="29" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Eliminate open water bodies furtherly&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
-          <mxGeometry x="645" y="473" width="405" height="24" as="geometry" />
+          <mxGeometry x="628" y="474" width="405" height="24" as="geometry" />
         </mxCell>
         <mxCell id="30" value="&lt;i&gt;Median/&lt;br&gt;Value&lt;br&gt;Filter&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="1160" y="188" width="70" height="90" as="geometry" />
@@ -106,7 +106,7 @@
             <mxPoint x="1245" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32" value="&lt;i&gt;Evaluation with other bare&lt;br&gt;soil extraction method&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
+        <mxCell id="32" value="&lt;i style=&quot;font-size: 26px;&quot;&gt;Evaluation with other bare&lt;br&gt;soil extraction method&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=22;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="1272" y="104" width="346" height="65" as="geometry" />
         </mxCell>
         <mxCell id="33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
