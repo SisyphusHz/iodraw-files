@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="27" value="&lt;b&gt;Discriminate straw from soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
-          <mxGeometry x="648" y="396" width="280" height="24" as="geometry" />
+          <mxGeometry x="630" y="394" width="280" height="24" as="geometry" />
         </mxCell>
         <mxCell id="28" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;(mNDWI &amp;gt; EVI or &amp;gt; NDVI) and EVI &amp;lt; 0.1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="422" width="500" height="50" as="geometry" />
