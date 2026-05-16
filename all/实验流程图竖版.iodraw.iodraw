@@ -230,7 +230,7 @@
           <mxGeometry x="967.5" y="1110" width="145" height="125" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-68" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;注：Globeland30 cropland layer&lt;br&gt;支持空间一致性评价&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="802.5" y="1240" width="315" height="80" as="geometry" />
+          <mxGeometry x="802.5" y="1240" width="327.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-69" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开展结果解读、精度验证、&lt;br&gt;一致性与效率比较&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#ff0000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="817.5" y="1315" width="280" height="60" as="geometry" />
