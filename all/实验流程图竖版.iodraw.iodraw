@@ -220,7 +220,7 @@
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-64" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;定性分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="805" y="945" width="150" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;空间精度评价&lt;br&gt;（OA / OE / CE）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;空间精度评价&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="970" y="945" width="145" height="125" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;空间一致性评价&lt;br&gt;（Consistency）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
