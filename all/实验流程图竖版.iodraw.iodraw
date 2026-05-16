@@ -196,16 +196,16 @@
             <mxPoint x="380" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-58" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;裸土分布图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-58" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;裸土分布图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="395" y="985" width="150" height="115" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;真彩色对比图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="555" y="985" width="155" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-60" value="耕地一致性图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;耕地一致性图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="395" y="1155" width="150" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-61" value="统计表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-61" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;统计表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="555" y="1155" width="155" height="115" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-62" value="生成空间图件与统计结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#ff0000;fontStyle=1;" parent="1" vertex="1">
@@ -217,7 +217,7 @@
             <mxPoint x="790" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-64" value="定性分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="k3fFjqp0Vy-i4_i_pcHv-64" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;定性分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="805" y="945" width="150" height="125" as="geometry" />
         </mxCell>
         <mxCell id="k3fFjqp0Vy-i4_i_pcHv-65" value="空间精度评价&lt;br&gt;&lt;span style=&quot;font-size:15px&quot;&gt;（OA / OE / CE）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
