@@ -61,7 +61,7 @@
         <mxCell id="19" value="&lt;b&gt;Separate vegetation, impervious surface and bare soil&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
           <mxGeometry x="648" y="240" width="422" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="0 &amp;lt; B3-B2 and 0 &amp;lt; B4-B3" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="20" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;0 &amp;lt; B3-B2 and 0 &amp;lt; B4-B3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="266" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="21" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
