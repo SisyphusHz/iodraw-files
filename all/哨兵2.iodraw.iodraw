@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-13" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;影像级云量筛选&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;CLOUDY_PIXEL_PERCENTAGE &amp;lt; 80&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="495" y="516" width="570" height="50" as="geometry" />
+          <mxGeometry x="495" y="516" width="615" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qBikejllrflv4hqunyuy-14" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="549" y="568" width="45" height="22" as="geometry" />
