@@ -122,7 +122,7 @@
           <mxGeometry x="1492" y="188" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="37" value="&lt;i style=&quot;font-size: 20px;&quot;&gt;Globeland30-Croplandlayer&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=15;fontColor=#000000;fontStyle=2;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="248" width="85" height="42" as="geometry" />
+          <mxGeometry x="1323" y="248" width="285" height="42" as="geometry" />
         </mxCell>
         <mxCell id="38" style="endArrow=block;html=1;rounded=0;strokeWidth=1.2;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
