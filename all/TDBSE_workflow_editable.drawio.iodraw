@@ -73,8 +73,8 @@
             <mxPoint x="625" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="&lt;b&gt;Improve soil masking&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
-          <mxGeometry x="648" y="318" width="230" height="24" as="geometry" />
+        <mxCell id="23" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Improve soil masking&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=16;fontColor=#e00000;" parent="1" vertex="1">
+          <mxGeometry x="628" y="317" width="230" height="24" as="geometry" />
         </mxCell>
         <mxCell id="24" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;NBR2 &amp;lt; 0.15&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="344" width="210" height="50" as="geometry" />
