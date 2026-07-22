@@ -119,8 +119,8 @@
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-31" value="Radar Feature Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=28;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1185" y="335" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oVlI2EKFIBMTsnkbEXBi-32" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;Radar&lt;br&gt;au&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="568" width="280" height="190" as="geometry" />
+        <mxCell id="oVlI2EKFIBMTsnkbEXBi-32" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;Radar auxiliary&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;evidence&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;for&lt;/div&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;S1A-TDBSE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="568" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oVlI2EKFIBMTsnkbEXBi-34" target="oVlI2EKFIBMTsnkbEXBi-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
