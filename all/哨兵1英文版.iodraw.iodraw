@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="4E67a193JalfmBsBzvhP">
-    <mxGraphModel dx="2206" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-6" value="&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=20;fontColor=#000000;align=center;verticalAlign=middle;dashed=1;dashPattern=6 6;" parent="1" vertex="1">
           <mxGeometry x="1150" y="400" width="510" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="oVlI2EKFIBMTsnkbEXBi-7" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;按照研究区边界筛选&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="oVlI2EKFIBMTsnkbEXBi-7" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Filter by the&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;study-area&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;boundary&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="110" y="660.5" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-8" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;exitX=0.994;exitY=0.409;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="oVlI2EKFIBMTsnkbEXBi-4" edge="1">
