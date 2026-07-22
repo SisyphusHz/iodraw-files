@@ -26,7 +26,7 @@
           <mxGeometry x="125" y="118" width="215" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-8" value="Index claculationandpreprocessing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=24;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="118" width="425" height="55" as="geometry" />
+          <mxGeometry x="540" y="118" width="480" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-9" value="方法运行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=24;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="123.00000000000001" y="843" width="160" height="55" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="240.5" y="700" width="115" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-64" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;strokeWidth=2;fontFamily=Arial;fontSize=20;fontColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="555" y="128" width="30" height="30" as="geometry" />
+          <mxGeometry x="485" y="128" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-65" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=#000000;strokeWidth=2;fontFamily=Arial;fontSize=20;fontColor=#ffffff;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="85.00000000000001" y="853" width="30" height="30" as="geometry" />
