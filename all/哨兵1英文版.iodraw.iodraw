@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Select dual=polarization VV and VH scenes&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="495" y="672" width="335" height="50" as="geometry" />
+          <mxGeometry x="495" y="672" width="525" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;And&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="549" y="724" width="45" height="22" as="geometry" />
@@ -80,7 +80,7 @@
             <mxPoint x="600" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oVlI2EKFIBMTsnkbEXBi-21" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;提取VV、VH向后散射波段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="oVlI2EKFIBMTsnkbEXBi-21" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Extract VV and VH backscatter bands&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="495" y="750" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oVlI2EKFIBMTsnkbEXBi-22" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
