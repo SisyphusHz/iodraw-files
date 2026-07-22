@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gK8QDLmt2ajvaxodNN65-9" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Filter by date:2023-01-01 to 2025-12-31&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=23;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="505" y="448" width="570" height="50" as="geometry" />
+          <mxGeometry x="505" y="448" width="485" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gK8QDLmt2ajvaxodNN65-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;And&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="559" y="500" width="45" height="22" as="geometry" />
