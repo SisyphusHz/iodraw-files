@@ -232,6 +232,18 @@
             <mxPoint x="1029.5" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mRN50jI2mRgZfefQpD_e-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Qualitative&lt;br&gt;analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="925" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="mRN50jI2mRgZfefQpD_e-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Spatial&lt;br&gt;accuracy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="925" width="145" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="mRN50jI2mRgZfefQpD_e-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Computational&lt;br&gt;efficiency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="1110" width="145" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="mRN50jI2mRgZfefQpD_e-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Spatial&lt;br&gt;consistency&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1110" width="150" height="125" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
