@@ -79,7 +79,7 @@
             <mxPoint x="610" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gK8QDLmt2ajvaxodNN65-21" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;B11、B12 双线性重采样至 10 m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="gK8QDLmt2ajvaxodNN65-21" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Bilinear resampling of B11 and B12 to 10m&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=1.5;fontFamily=Arial;fontSize=22;fontColor=#000000;align=left;verticalAlign=middle;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="505" y="760" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gK8QDLmt2ajvaxodNN65-22" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
