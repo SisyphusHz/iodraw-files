@@ -180,8 +180,8 @@
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=3;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="1110" as="sourcePoint" />
-            <mxPoint x="445" y="1110" as="targetPoint" />
+            <mxPoint x="790" y="1510" as="sourcePoint" />
+            <mxPoint x="820" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Bare-soil&lt;br&gt;distribution maps&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
@@ -198,8 +198,8 @@
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=3;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805" y="1110" as="sourcePoint" />
-            <mxPoint x="835" y="1110" as="targetPoint" />
+            <mxPoint x="630" y="1510" as="sourcePoint" />
+            <mxPoint x="660" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Qualitative&lt;br&gt;analysis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
