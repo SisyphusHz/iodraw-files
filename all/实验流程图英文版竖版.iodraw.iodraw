@@ -217,14 +217,14 @@
         <mxCell id="mRN50jI2mRgZfefQpD_e-67" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cropland-consistency maps&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="485" y="1147.5" width="150" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="mRN50jI2mRgZfefQpD_e-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.952;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;align=center;verticalAlign=bottom;" edge="1" parent="1" source="OLVCKqxgm8o3bqWr_M-b-45" target="OLVCKqxgm8o3bqWr_M-b-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mRN50jI2mRgZfefQpD_e-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="mRN50jI2mRgZfefQpD_e-80" target="OLVCKqxgm8o3bqWr_M-b-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mRN50jI2mRgZfefQpD_e-80" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Data sources / inputs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f6f6f6;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="55" y="218" width="290" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="mRN50jI2mRgZfefQpD_e-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.941;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OLVCKqxgm8o3bqWr_M-b-45" target="OLVCKqxgm8o3bqWr_M-b-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
