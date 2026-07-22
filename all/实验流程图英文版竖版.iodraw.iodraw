@@ -26,7 +26,7 @@
           <mxGeometry x="125" y="118" width="215" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-8" value="Index claculation and preprocessing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=24;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="118" width="480" height="55" as="geometry" />
+          <mxGeometry x="658" y="115.5" width="480" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OLVCKqxgm8o3bqWr_M-b-9" value="Method execution" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=24;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="843" width="250" height="55" as="geometry" />
