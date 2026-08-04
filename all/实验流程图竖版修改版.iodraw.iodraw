@@ -226,11 +226,11 @@
         <mxCell id="IyODGU6it7A67jkzr8V0-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.949;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="IyODGU6it7A67jkzr8V0-34" target="IyODGU6it7A67jkzr8V0-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IyODGU6it7A67jkzr8V0-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="174.5" y="675" width="70" height="155" as="geometry" />
-        </mxCell>
-        <mxCell id="IyODGU6it7A67jkzr8V0-65" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1470" width="80" height="30" as="geometry" />
+        <mxCell id="IyODGU6it7A67jkzr8V0-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.5" y="675" as="sourcePoint" />
+            <mxPoint x="210.5" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
