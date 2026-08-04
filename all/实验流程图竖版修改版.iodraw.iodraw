@@ -50,7 +50,7 @@
           <mxGeometry x="920" y="480" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IyODGU6it7A67jkzr8V0-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sentinel-1A GRD&amp;nbsp;&lt;br&gt;（2023–2025）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f6f6f6;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="920" y="570" width="290" height="70" as="geometry" />
+          <mxGeometry x="920" y="584" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IyODGU6it7A67jkzr8V0-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;A. Sentinel-2 optical preprocessing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=18;fontColor=#000000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="201.5" width="365" height="35" as="geometry" />
@@ -213,9 +213,6 @@
         </mxCell>
         <mxCell id="IyODGU6it7A67jkzr8V0-57" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cropland-consistency maps&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7f7f7;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="485" y="1147.5" width="150" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="IyODGU6it7A67jkzr8V0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="IyODGU6it7A67jkzr8V0-59" target="IyODGU6it7A67jkzr8V0-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IyODGU6it7A67jkzr8V0-59" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Data sources / inputs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f6f6f6;strokeColor=#000000;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=19;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="920" y="213" width="290" height="52" as="geometry" />
