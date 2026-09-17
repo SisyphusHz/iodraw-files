@@ -47,7 +47,7 @@
           <mxGeometry x="210" y="220" width="88" height="34" as="geometry" />
         </mxCell>
         <mxCell id="snow2" value="❄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#D3B7E8;" parent="1" vertex="1">
-          <mxGeometry x="285" y="330" width="28" height="28" as="geometry" />
+          <mxGeometry x="276" y="208" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="plus2" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#111111;" parent="1" vertex="1">
           <mxGeometry x="302" y="223" width="26" height="26" as="geometry" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="actionLabel" value="Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="710" y="148" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hnPZHCKKjFlc772Xc23a-3" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="87" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
