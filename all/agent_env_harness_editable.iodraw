@@ -1,0 +1,102 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="agent-env-harness" name="Page-1">
+    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="topOuter" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7FC3D9;strokeWidth=1.5;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="190" y="45" width="520" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="agentLabel" value="Agent" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=3;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="195" y="48" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="llmBox" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A8A8A8;strokeWidth=1.2;arcSize=10;fontFamily=Comic Sans MS;fontSize=21;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="210" y="91" width="88" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="snow1" value="❄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#8ED9E7;" parent="1" vertex="1">
+          <mxGeometry x="276" y="80" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="plus1" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="302" y="94" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="topHarness" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6F6F6F;strokeWidth=1.1;dashed=1;dashPattern=4 4;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="325" y="75" width="367" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="skills" value="&lt;b&gt;Skills&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;add known recipes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEAF8;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="334" y="81" width="96" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="memory" value="&lt;b&gt;Memory&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;add past context&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEAF8;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="441" y="81" width="101" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="tools" value="&lt;b&gt;Tools&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;add external actions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEAF8;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="552" y="81" width="108" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="dots1" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="663" y="93" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="agentHarnessLabel" value="Agent Harness" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontStyle=3;fontColor=#111111;backgroundOutline=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="591" y="58" width="112" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bottomOuter" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C4AED9;strokeWidth=1.5;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="190" y="175" width="520" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="envTitle" value="Customized Environment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontStyle=3;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="195" y="179" width="180" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="envBox" value="Env" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A8A8A8;strokeWidth=1.2;arcSize=10;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="210" y="220" width="88" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="snow2" value="❄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#D3B7E8;" parent="1" vertex="1">
+          <mxGeometry x="276" y="208" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="plus2" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="302" y="223" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bottomHarness" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6F6F6F;strokeWidth=1.1;dashed=1;dashPattern=4 4;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="325" y="206" width="367" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="stage" value="&lt;b&gt;Stage&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;modify init states&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="334" y="212" width="96" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="contract" value="&lt;b&gt;Contract&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;change interactions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=18;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="441" y="212" width="101" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="chain" value="&lt;b&gt;Chain&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;link several envs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="552" y="212" width="108" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="dots2" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=20;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="663" y="224" width="28" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="envHarnessLabel" value="EnvHarness (ours)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontStyle=3;fontColor=#111111;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="579" y="189" width="130" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="obsLabel" value="Observation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="112" y="148" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="obsArrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#111111;endArrow=block;endFill=0;curved=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="245" as="sourcePoint" />
+            <mxPoint x="192" y="92" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="152" y="230" />
+              <mxPoint x="150" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="actionLabel" value="Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;" parent="1" vertex="1">
+          <mxGeometry x="710" y="148" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="actionArrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#111111;endArrow=block;endFill=0;curved=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708" y="88" as="sourcePoint" />
+            <mxPoint x="708" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="105" />
+              <mxPoint x="755" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
