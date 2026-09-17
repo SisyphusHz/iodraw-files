@@ -70,8 +70,8 @@
         <mxCell id="envHarnessLabel" value="EnvHarness (ours)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontStyle=3;fontColor=#111111;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="579" y="189" width="130" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="obsLabel" value="Observation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;strokeColor=none;fillColor=default;gradientColor=none;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="95" y="148" width="95" height="26" as="geometry" />
+        <mxCell id="obsLabel" value="Observation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="112" y="148" width="95" height="26" as="geometry" />
         </mxCell>
         <mxCell id="obsArrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#111111;endArrow=block;endFill=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
