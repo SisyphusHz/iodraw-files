@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="obsLabel" value="Observation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="112" y="148" width="95" height="26" as="geometry" />
+          <mxGeometry x="112" y="148" width="68" height="12" as="geometry" />
         </mxCell>
         <mxCell id="actionLabel" value="Action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#111111;" parent="1" vertex="1">
           <mxGeometry x="710" y="148" width="72" height="26" as="geometry" />
