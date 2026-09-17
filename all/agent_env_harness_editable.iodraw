@@ -59,7 +59,7 @@
           <mxGeometry x="334" y="212" width="96" height="51" as="geometry" />
         </mxCell>
         <mxCell id="contract" value="&lt;b&gt;Contract&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;change interactions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=18;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="437" y="211.5" width="109" height="51" as="geometry" />
+          <mxGeometry x="441" y="212" width="101" height="51" as="geometry" />
         </mxCell>
         <mxCell id="chain" value="&lt;b&gt;Chain&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;link several envs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="552" y="212" width="108" height="51" as="geometry" />
