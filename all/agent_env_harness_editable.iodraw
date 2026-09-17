@@ -55,7 +55,7 @@
         <mxCell id="bottomHarness" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6F6F6F;strokeWidth=1.1;dashed=1;dashPattern=4 4;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="325" y="206" width="367" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="stage" value="&lt;b&gt;Stage&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;modify init states&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="stage" value="&lt;b&gt;Stage&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;modify init states&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=19;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="334" y="212" width="96" height="51" as="geometry" />
         </mxCell>
         <mxCell id="contract" value="&lt;b&gt;Contract&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;change interactions&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8DDF5;strokeColor=none;arcSize=13;fontFamily=Comic Sans MS;fontSize=18;fontColor=#232323;align=center;verticalAlign=middle;" parent="1" vertex="1">
