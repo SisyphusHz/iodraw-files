@@ -2385,7 +2385,7 @@
         <mxCell id="EN_text_71" value="4" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="46" y="286" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_72" value="Vertical sampling support" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=23;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_72" value="Vertical sampling support" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=23;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#f5a36e;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="93" y="285" width="445" height="38" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_91" value="Surface covariates" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#418DB0;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
@@ -2511,7 +2511,7 @@
         <mxCell id="EN_text_508" value="Next observation and map-update cycle" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#897252;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF8E9;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="729" y="959" width="520" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_510" value="Observation gaps" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_510" value="&lt;b&gt;Observation gaps&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="101" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_512" value="Environmental context" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
