@@ -5404,7 +5404,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="obj0618" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#F6B376;strokeWidth=7;endArrow=none;endFill=0;dashed=0;dashPattern=6 5;opacity=75;" parent="1" edge="1">
+        <mxCell id="obj0618" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#F6B376;strokeWidth=7;endArrow=none;endFill=0;dashed=0;dashPattern=6 5;opacity=75;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1135" y="168" as="sourcePoint" />
             <mxPoint x="1275" y="170" as="targetPoint" />
@@ -5806,7 +5806,7 @@
           <mxGeometry x="56" y="818" width="519" height="145" as="geometry" />
         </mxCell>
         <mxCell id="obj0625" value="Carbon&#xa;Cycle&#xa;Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1;opacity=100;fontFamily=Comic Sans MS;fontSize=23;fontColor=#3F3F40;align=center;verticalAlign=middle;spacing=0;fontStyle=0;rotation=0;dashed=0;shape=text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1176" y="171" width="158" height="111" as="geometry" />
+          <mxGeometry x="1246.4" y="165" width="158" height="111" as="geometry" />
         </mxCell>
         <mxCell id="obj1317" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9E56;strokeColor=#986948;strokeWidth=1.2;opacity=100;fontFamily=Comic Sans MS;fontSize=18;fontColor=#3E3B3B;align=center;verticalAlign=middle;spacing=0;fontStyle=0;rotation=0;dashed=0;arcSize=26;absoluteArcSize=1;" parent="1" vertex="1">
           <mxGeometry x="56" y="818" width="519" height="38" as="geometry" />
