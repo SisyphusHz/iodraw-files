@@ -2367,7 +2367,7 @@
         <mxCell id="EN_text_65" value="2" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="46" y="176" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_66" value="Target-property assays" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=23;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_66" value="Target-property assays" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=23;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#f5a36e;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="93" y="175" width="445" height="38" as="geometry" />
         </mxCell>
         <mxCell id="EN_ellipse_67" value="" style="whiteSpace=wrap;html=1;fillColor=#DE8B4B;strokeColor=#C47B47;strokeWidth=1;opacity=100;ellipse=1;shape=ellipse;" parent="layer_labels" vertex="1">
