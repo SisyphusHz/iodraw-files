@@ -2325,7 +2325,7 @@
         <mxCell id="EN_rect_51" value="" style="whiteSpace=wrap;html=1;fillColor=#F5A36E;strokeColor=#DA8C56;strokeWidth=1.35;opacity=100;rounded=1;arcSize=35;" parent="layer_labels" vertex="1">
           <mxGeometry x="92" y="33" width="480" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_52" value="Deep-soil observation bottlenecks" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#FFFFFF;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_52" value="Deep-soil observation bottlenecks" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="106" y="34" width="456" height="43" as="geometry" />
         </mxCell>
         <mxCell id="EN_ellipse_53" value="" style="whiteSpace=wrap;html=1;fillColor=#FFB07E;strokeColor=#D27E44;strokeWidth=1.6;opacity=100;ellipse=1;shape=ellipse;" parent="layer_labels" vertex="1">
@@ -2337,13 +2337,13 @@
         <mxCell id="EN_rect_55" value="" style="whiteSpace=wrap;html=1;fillColor=#F5A36E;strokeColor=#DA8C56;strokeWidth=1.35;opacity=100;rounded=1;arcSize=35;" parent="layer_labels" vertex="1">
           <mxGeometry x="660" y="33" width="770" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_56" value="Depth-dependent controls &amp;amp; prediction challenges" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#FFFFFF;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_56" value="Depth-dependent controls &amp;amp; prediction challenges" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="674" y="34" width="746" height="43" as="geometry" />
         </mxCell>
         <mxCell id="EN_ellipse_57" value="" style="whiteSpace=wrap;html=1;fillColor=#FFB07E;strokeColor=#D27E44;strokeWidth=1.6;opacity=100;ellipse=1;shape=ellipse;" parent="layer_labels" vertex="1">
           <mxGeometry x="1452" y="28" width="56" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_58" value="C" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=28;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_58" value="C" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="layer_labels" vertex="1">
           <mxGeometry x="1452" y="28" width="56" height="56" as="geometry" />
         </mxCell>
         <mxCell id="EN_rect_59" value="" style="whiteSpace=wrap;html=1;fillColor=#F5A36E;strokeColor=#DA8C56;strokeWidth=1.35;opacity=100;rounded=1;arcSize=35;" parent="layer_labels" vertex="1">
