@@ -2523,7 +2523,7 @@
         <mxCell id="EN_text_516" value="Conditional links / future tests" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="1478" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_517" value="Conceptual framework · not measured effects" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#9A957F;fontStyle=2;align=right;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_517" value="Conceptual framework · not measured effects" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=2;align=right;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff2cc;strokeColor=#d6b656;" parent="layer_labels" vertex="1">
           <mxGeometry x="1418" y="997" width="470" height="25" as="geometry" />
         </mxCell>
       </root>
