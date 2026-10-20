@@ -5413,13 +5413,12 @@
               <mxPoint x="1162" y="143" />
               <mxPoint x="1186" y="137" />
               <mxPoint x="1211" y="136" />
-              <mxPoint x="1300" y="140" />
               <mxPoint x="1234" y="143" />
               <mxPoint x="1258" y="154" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="obj0619" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#F4A66D;strokeWidth=7;endArrow=none;endFill=0;dashed=0;dashPattern=6 5;opacity=75;" parent="1" edge="1">
+        <mxCell id="obj0619" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#F4A66D;strokeWidth=7;endArrow=none;endFill=0;dashed=0;dashPattern=6 5;opacity=75;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1269" y="249" as="sourcePoint" />
             <mxPoint x="1394" y="238" as="targetPoint" />
