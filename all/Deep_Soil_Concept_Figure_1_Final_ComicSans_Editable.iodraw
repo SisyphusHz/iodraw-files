@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="deepsoil-EN" name="Figure 1 — English">
-    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="01 · Background and soil" parent="0" />
@@ -2437,7 +2437,7 @@
           <mxGeometry x="525" y="391" width="38" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_404" value="100" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="525" y="591" width="38" height="37" as="geometry" />
+          <mxGeometry x="520" y="591" width="43" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_406" value="200" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="525" y="801" width="38" height="37" as="geometry" />
