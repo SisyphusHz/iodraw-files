@@ -2456,7 +2456,7 @@
           <mxGeometry x="655" y="485" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_420" value="Root-C inputs&lt;br&gt;(SOC example)" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#5D7559;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#F8F0DD;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="616" y="557" width="204" height="58" as="geometry" />
+          <mxGeometry x="610" y="557" width="204" height="58" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_423" value="100–200 cm: example target interval" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=22;fontColor=#CC7C3C;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF8EA;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="726" y="811" width="545" height="41" as="geometry" />
