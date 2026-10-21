@@ -1847,7 +1847,7 @@
         <mxCell id="EN_rect_396" value="" style="whiteSpace=wrap;html=1;fillColor=#E8B889;strokeColor=#C38453;strokeWidth=2;opacity=100;rounded=0;arcSize=0;" parent="layer_ill" vertex="1">
           <mxGeometry x="453" y="635" width="24" height="189" as="geometry" />
         </mxCell>
-        <mxCell id="EN_edge_397" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#C38453;strokeWidth=2;opacity=100;endArrow=none;endFill=0;" parent="layer_ill" edge="1">
+        <mxCell id="EN_edge_397" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#C38453;strokeWidth=2;opacity=100;endArrow=none;endFill=0;" parent="layer_ill" edge="1" source="EN_text_398">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="479" y="635" as="sourcePoint" />
             <mxPoint x="479" y="824" as="targetPoint" />
@@ -2165,6 +2165,16 @@
             <mxPoint x="1581" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6rOjU_URdHUiDaddH3UZ-1" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#C38453;strokeWidth=2;opacity=100;endArrow=none;endFill=0;" edge="1" parent="layer_ill" target="EN_text_398">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="635" as="sourcePoint" />
+            <mxPoint x="479" y="824" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN_text_398" value="Mixed interval" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#B77037;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF2D9;strokeColor=none;" parent="layer_ill" vertex="1">
+          <mxGeometry x="412" y="700" width="112" height="51" as="geometry" />
+        </mxCell>
         <mxCell id="layer_conn" value="03 · Connectors and scientific annotations" parent="0" />
         <mxCell id="EN_edge_90" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#68ACC0;strokeWidth=2.5;opacity=100;endArrow=classic;endFill=1;dashed=1;dashPattern=6 5;" parent="layer_conn" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2425,9 +2435,6 @@
         <mxCell id="EN_text_390" value="4" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=21;fontColor=#FFFFFF;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
           <mxGeometry x="447" y="328" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_398" value="Mixed interval" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#B77037;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF2D9;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="400" y="720" width="112" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="EN_text_399" value="Different missing information" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=22;fontColor=#4B6661;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF6E0;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry y="830" width="520" height="38" as="geometry" />
         </mxCell>
@@ -2435,7 +2442,7 @@
           <mxGeometry x="525" y="391" width="38" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_404" value="100" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="520" y="591" width="43" height="37" as="geometry" />
+          <mxGeometry x="510" y="570" width="43" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_406" value="200" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="510" y="780" width="53" height="37" as="geometry" />
