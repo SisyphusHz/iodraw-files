@@ -1255,7 +1255,7 @@
         <mxCell id="validation_3_body_324" value="Separate gains from samples, covariates and models.&#xa;Use matched comparisons and report costs." style="fontFamily=Comic Sans MS;fontSize=18;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=0;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_6" vertex="1">
           <mxGeometry x="1270" y="1135" width="570" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="layer_7" value="07 Titles and notes" style="fontFamily=Comic Sans MS;" parent="0" visible="0" />
+        <mxCell id="layer_7" value="07 Titles and notes" style="fontFamily=Comic Sans MS;" parent="0" />
         <mxCell id="main_title_2" value="Reliable deep soil mapping through better observations and soil science" style="fontFamily=Comic Sans MS;fontSize=35;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=1;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
           <mxGeometry x="54" y="27" width="1810" height="53" as="geometry" />
         </mxCell>
@@ -1268,7 +1268,7 @@
         <mxCell id="feedback_label_327" value="Diagnose errors, observation gaps and environmental coverage  /  Guide the next sampling round" style="fontFamily=Comic Sans MS;fontSize=22;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=center;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=1;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
           <mxGeometry x="394" y="1220" width="1437" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="scope_note_328" value="Conceptual research agenda. Depth limits vary by soil and application." style="fontFamily=Comic Sans MS;fontSize=16;fontColor=#88684F;html=0;whiteSpace=wrap;overflow=hidden;align=right;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=0;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
+        <mxCell id="scope_note_328" value="Conceptual research agenda. Depth limits vary by soil and application." style="fontFamily=Comic Sans MS;fontSize=16;fontColor=#88684F;html=0;whiteSpace=wrap;overflow=hidden;align=right;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=1;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
           <mxGeometry x="1198" y="91" width="665" height="27" as="geometry" />
         </mxCell>
       </root>
