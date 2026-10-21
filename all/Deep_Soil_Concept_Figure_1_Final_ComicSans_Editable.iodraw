@@ -2429,7 +2429,7 @@
           <mxGeometry x="409" y="752" width="112" height="39" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_399" value="Different missing information" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=22;fontColor=#4B6661;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF6E0;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="28" y="780" width="520" height="38" as="geometry" />
+          <mxGeometry y="830" width="520" height="38" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_402" value="0" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="525" y="391" width="38" height="37" as="geometry" />
@@ -2438,7 +2438,7 @@
           <mxGeometry x="520" y="591" width="43" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_406" value="200" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="525" y="801" width="38" height="37" as="geometry" />
+          <mxGeometry x="510" y="801" width="53" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_407" value="cm" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#C27A42;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
           <mxGeometry x="535" y="438" width="30" height="25" as="geometry" />
