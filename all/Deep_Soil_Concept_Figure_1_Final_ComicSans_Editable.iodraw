@@ -2182,9 +2182,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="405" as="sourcePoint" />
             <mxPoint x="565" y="824" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="610" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EN_edge_401" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#C27A42;strokeWidth=2;opacity=100;endArrow=none;endFill=0;" parent="layer_conn" edge="1">
