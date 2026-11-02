@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="deep-soil-concept" name="Deep soil | Concept">
-    <mxGraphModel dx="1953" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1280" background="#FFF9E8" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1280" background="#FFF9E8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="layer_0" value="00 Background" style="fontFamily=Comic Sans MS;" parent="0" />
@@ -1257,7 +1257,7 @@
         </mxCell>
         <mxCell id="layer_7" value="07 Titles and notes" style="fontFamily=Comic Sans MS;" parent="0" />
         <mxCell id="main_title_2" value="Reliable deep soil mapping through better observations and soil science" style="fontFamily=Comic Sans MS;fontSize=35;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=1;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
-          <mxGeometry x="54" y="27" width="1810" height="53" as="geometry" />
+          <mxGeometry x="90" y="27" width="1810" height="53" as="geometry" />
         </mxCell>
         <mxCell id="subtitle_3" value="Observe the target depth  /  Resolve subsurface contrasts  /  Model profile organization" style="fontFamily=Comic Sans MS;fontSize=23;fontColor=#88684F;html=0;whiteSpace=wrap;overflow=hidden;align=left;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=text;fillColor=none;strokeColor=none;fontStyle=0;spacing=0;spacingTop=0;spacingBottom=0;" parent="layer_7" vertex="1">
           <mxGeometry x="57" y="86" width="1795" height="35" as="geometry" />
