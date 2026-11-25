@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="deep-soil-concept" name="Deep soil | Concept">
-    <mxGraphModel dx="2840" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1280" background="#FFF9E8" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1280" background="#FFF9E8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="layer_0" value="00 Background" style="fontFamily=Comic Sans MS;" parent="0" />
@@ -289,7 +289,7 @@
           <mxGeometry x="1121" y="234" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="surface_observation_icon_74" value="" style="fontFamily=Comic Sans MS;fontSize=20;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=center;verticalAlign=middle;strokeWidth=1.5;shadow=0;group=;fillColor=none;strokeColor=none;connectable=0;" parent="layer_3" vertex="1">
-          <mxGeometry x="683" y="235" width="92" height="92" as="geometry" />
+          <mxGeometry x="580" y="220" width="92" height="92" as="geometry" />
         </mxCell>
         <mxCell id="solar_array_75" value="" style="fontFamily=Comic Sans MS;fontSize=20;fontColor=#664831;html=0;whiteSpace=wrap;overflow=hidden;align=center;verticalAlign=middle;strokeWidth=1.5;shadow=0;shape=stencil(fZFBEoIwDEVP0z20G/eI13AiBOlYWiatILe3nZQRcHSX//PS+UmFqnwPIwpZWBhQqLOQ0jsDdAUiWKKKrZl9VbDssyxZgh+xCexNQBpuBrnjA7kHzroNeUTbHkmH1FW1UFXnCO/knrZlPUIiUzW4KYV68Zzk9xZWOYaQF2aNtht2TZnh8j8tTzt63ekHvX/6K0hjnMetEYvPSp02hi9yQI5XiBZ/iqrf);fillColor=#90AAA0;strokeColor=#678B86;lineJoin=round;lineCap=round;" parent="surface_observation_icon_74" vertex="1">
           <mxGeometry x="1" y="21" width="30" height="31" as="geometry" />
