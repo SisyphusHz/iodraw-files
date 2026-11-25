@@ -1,6 +1,6 @@
 <mxfile host="Electron" compressed="false" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="deep-soil-fig1" name="Figure 1 · Deep soil mapping">
-    <mxGraphModel dx="2074" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1360" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="1219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1360" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="a · Landscape and bottlenecks" parent="0" />
@@ -2329,7 +2329,7 @@
         <mxCell id="340" value="and within-profile leakage" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontFamily=Arial;fillColor=none;strokeColor=none;align=left;fontSize=14.5;fontStyle=0;fontColor=#465051;" parent="1" vertex="1">
           <mxGeometry x="854" y="271.125" width="169.435" height="21.75" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="b · Targeted observation" parent="0" visible="0" />
+        <mxCell id="2" value="b · Targeted observation" parent="0" />
         <mxCell id="341" style="edgeStyle=none;rounded=0;jumpStyle=none;html=0;startArrow=none;endArrow=none;fontFamily=Arial;fillColor=none;strokeColor=#CFD4D1;strokeWidth=1.15;" parent="2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="294" as="sourcePoint" />
@@ -2865,7 +2865,7 @@
         <mxCell id="465" value="Sand + silt + clay = 100% · mask unmeasured assays" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontFamily=Arial;fillColor=none;strokeColor=none;align=left;fontSize=14.5;fontStyle=0;fontColor=#465051;" parent="4" vertex="1">
           <mxGeometry x="846" y="626.125" width="350.352" height="21.75" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="c · Validation and 3D maps" parent="0" visible="0" />
+        <mxCell id="5" value="c · Validation and 3D maps" parent="0" />
         <mxCell id="466" style="edgeStyle=none;rounded=0;jumpStyle=none;html=0;startArrow=none;endArrow=none;fontFamily=Arial;fillColor=none;strokeColor=#CFD4D1;strokeWidth=1.15;" parent="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="649" as="sourcePoint" />
@@ -4056,7 +4056,7 @@
         <mxCell id="745" value="Standard depth slices · 30–200 cm" style="text;html=0;whiteSpace=nowrap;overflow=visible;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;fontFamily=Arial;fillColor=none;strokeColor=none;align=left;fontSize=15;fontStyle=0;fontColor=#242929;" parent="5" vertex="1">
           <mxGeometry x="1072" y="795.455" width="236.804" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Feedback to sampling" parent="0" visible="0" />
+        <mxCell id="6" value="Feedback to sampling" parent="0" />
         <mxCell id="746" style="edgeStyle=none;rounded=0;jumpStyle=none;html=0;startArrow=none;endArrow=block;endFill=1;endSize=4;dashed=1;fixDash=1;dashPattern=6 4;fontFamily=Arial;fillColor=none;strokeColor=#9C5E48;strokeWidth=1.7;" parent="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1307" y="765.11" as="sourcePoint" />
