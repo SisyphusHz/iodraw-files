@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="deepsoil-EN" name="Figure 1 — English">
-    <mxGraphModel dx="1562" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="01 · Background and soil" parent="0" />
@@ -2182,7 +2182,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="405" as="sourcePoint" />
             <mxPoint x="565" y="824" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EN_edge_401" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#C27A42;strokeWidth=2;opacity=100;endArrow=none;endFill=0;" parent="layer_conn" edge="1">
@@ -2432,16 +2431,16 @@
           <mxGeometry x="28" y="780" width="520" height="38" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_402" value="0" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="520" y="420" width="38" height="37" as="geometry" />
+          <mxGeometry x="525" y="391" width="38" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_404" value="100" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="510" y="610" width="48" height="37" as="geometry" />
+          <mxGeometry x="525" y="591" width="38" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_406" value="200" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=18;fontColor=#8F643F;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF7E7;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="525" y="801" width="38" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_407" value="cm" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#C27A42;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
-          <mxGeometry x="570" y="420" width="30" height="25" as="geometry" />
+          <mxGeometry x="535" y="438" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_413" value="Parent material&lt;br&gt;&amp;amp; mineralogy" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#5C503C;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#F9ECD6;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="624" y="707" width="198" height="67" as="geometry" />
@@ -2456,7 +2455,7 @@
           <mxGeometry x="655" y="485" width="234" height="67" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_420" value="Root-C inputs&lt;br&gt;(SOC example)" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=21;fontColor=#5D7559;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#F8F0DD;strokeColor=none;" parent="layer_labels" vertex="1">
-          <mxGeometry x="610" y="557" width="204" height="58" as="geometry" />
+          <mxGeometry x="616" y="557" width="204" height="58" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_423" value="100–200 cm: example target interval" style="text=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=22;fontColor=#CC7C3C;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#FFF8EA;strokeColor=none;" parent="layer_labels" vertex="1">
           <mxGeometry x="726" y="811" width="545" height="41" as="geometry" />
@@ -2473,7 +2472,7 @@
         <mxCell id="EN_text_434" value="pH" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=#2D958C;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
           <mxGeometry x="1156" y="666" width="75" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_438" value="&lt;b&gt;Shapes only · no concentration scale&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#6C807B;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_438" value="Shapes only · no concentration scale" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#6C807B;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
           <mxGeometry x="968" y="781" width="278" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EN_text_447" value="Targeted deep sampling&lt;br&gt;&amp;amp; optimized design" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=22;fontColor=#2D8680;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;" parent="layer_labels" vertex="1">
@@ -2515,16 +2514,16 @@
         <mxCell id="EN_text_510" value="&lt;b&gt;Observation gaps&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="101" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_512" value="&lt;b&gt;Environmental context&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_512" value="Environmental context" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="560" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_514" value="&lt;b&gt;Emerging research pathways&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_514" value="Emerging research pathways" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="1019" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_516" value="&lt;b&gt;Conditional links / future tests&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_516" value="Conditional links / future tests" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontColor=#66736B;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff9ea;" parent="layer_labels" vertex="1">
           <mxGeometry x="1478" y="1017" width="365" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EN_text_517" value="&lt;b&gt;Conceptual framework · not measured effects&lt;/b&gt;" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=2;align=right;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff2cc;strokeColor=#d6b656;" parent="layer_labels" vertex="1">
+        <mxCell id="EN_text_517" value="Conceptual framework · not measured effects" style="text=1;html=1;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontStyle=2;align=right;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=1;spacingBottom=1;overflow=hidden;opacity=100;fillColor=#fff2cc;strokeColor=#d6b656;" parent="layer_labels" vertex="1">
           <mxGeometry x="1418" y="997" width="470" height="25" as="geometry" />
         </mxCell>
       </root>
